@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 function ScrollableList({ items }) {
     return (
-      <div className="overflow-y-auto max-h-64">
+      <div className="max-h-64 overflow-y-auto">
         {items.map((item, index) => (
-          <div key={index} className="p-4 border-b border-gray-400 text-white">
+          <div key={index} className="p-2 border-b border-gray-700 text-white">
             {item.name} {/* Replace with how you want to display each item */}
           </div>
         ))}
@@ -12,5 +12,4 @@ function ScrollableList({ items }) {
     );
   }
 
-export default ScrollableList;
-  
+  export default ScrollableList;

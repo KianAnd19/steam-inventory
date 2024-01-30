@@ -1,38 +1,38 @@
 import React from "react";
 
 function Loader() {
-    return (<div class="loader">
-    <div class="container">
-      <div class="carousel">
-        <div class="love"></div>
-        <div class="love"></div>
-        <div class="love"></div>
-        <div class="love"></div>
-        <div class="love"></div>
-        <div class="love"></div>
-        <div class="love"></div>
+    return (<div className="loader">
+    <div className="container">
+      <div className="carousel">
+        <div className="love"></div>
+        <div className="love"></div>
+        <div className="love"></div>
+        <div className="love"></div>
+        <div className="love"></div>
+        <div className="love"></div>
+        <div className="love"></div>
       </div> 
     </div>
-    <div class="container">
-      <div class="carousel">
-        <div class="death"></div>
-        <div class="death"></div>
-        <div class="death"></div>
-        <div class="death"></div>
-        <div class="death"></div>
-        <div class="death"></div>
-        <div class="death"></div>
+    <div className="container">
+      <div className="carousel">
+        <div className="death"></div>
+        <div className="death"></div>
+        <div className="death"></div>
+        <div className="death"></div>
+        <div className="death"></div>
+        <div className="death"></div>
+        <div className="death"></div>
       </div> 
     </div>
-    <div class="container">
-      <div class="carousel">
-          <div class="robots"></div>
-          <div class="robots"></div>
-          <div class="robots"></div>
-          <div class="robots"></div>
-          <div class="robots"></div>
-          <div class="robots"></div>
-          <div class="robots"></div>
+    <div className="container">
+      <div className="carousel">
+          <div className="robots"></div>
+          <div className="robots"></div>
+          <div className="robots"></div>
+          <div className="robots"></div>
+          <div className="robots"></div>
+          <div className="robots"></div>
+          <div className="robots"></div>
       </div> 
     </div>
   </div>);
