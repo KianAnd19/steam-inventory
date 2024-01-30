@@ -8,13 +8,19 @@ function SearchBar({ onSearch }) {
   };
 
   const handleSubmit = (event) => {
-    event.preventDefault();
-    onSearch(query);
+    event.preventDefault(); // Prevents the default form submit action
+    onSearch(query); // Calls the onSearch function passed as a prop
   };
 
   return (
     <form onSubmit={handleSubmit} className="flex-grow">
-      <input type="text" placeholder="Enter Steam ID here..." name="text" className="input"/>
+      <input
+        type="text"
+        placeholder="Enter Steam ID here..."
+        className="input"
+        value={query}
+        onChange={handleInputChange}
+      />
     </form>
   );
 }
