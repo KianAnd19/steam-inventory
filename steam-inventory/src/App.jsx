@@ -7,39 +7,43 @@ import ScrollableInventory from './components/ScrollableInventory';
 import Loader from './components/Loader';
 import Leaderboard from './components/Leaderboard';
 
-
 function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [inventoryItems, setInventoryItems] = useState([]);
   const [inventoryValue, setInventoryValue] = useState(0);
 
-  const items = [{ name: 'Item 1' }, { name: 'Item 2' }, { name: 'Item 3'}, { name: 'Item 4' }, { name: 'Item 5' }, { name: 'Item 6'}, { name: 'Item 7' }, { name: 'Item 8' }, { name: 'Item 9'}];
+  const items = [{ image:'https://avatars.akamai.steamstatic.com/6384b8297577d2e1ffc8a558e4e808292dca0d88_full.jpg', name: 'Grandpasaurus', value:'56.85'}, 
+  { image:'https://avatars.akamai.steamstatic.com/b1fd6d2a128e673b21e453c4baa528c863650394_full.jpg', name: 'Noncelores Cumbridge', value:'36.46'}, 
+  { name: 'Item 3'}, { name: 'Item 4' }, { name: 'Item 5' }, { name: 'Item 6'}, { name: 'Item 7' }, { name: 'Item 8' }, { name: 'Item 9'}];
+  
+  
   const [categoryTotals, setCategoryTotals] = useState({"Weapon": 20, "Sticker": 19, "Container": 3, "Graffiti": 5, "Music Kit": 2});
 
 
-  // const fetchInventory = async (steamId) => {
-  //   const apiKey = import.meta.env.VITE_API_KEY;
-  //   const url = `https://www.steamwebapi.com/steam/api/inventory?key=${apiKey}&steam_id=${steamId}`;
+  const fetchInventory = async (steamId) => {
+    const apiKey = import.meta.env.VITE_API_KEY;
+    const url = `https://www.steamwebapi.com/steam/api/inventory?key=${apiKey}&steam_id=${steamId}`;
 
-  //   try {
-  //     setIsLoading(true);
-  //     const response = await fetch(url);
-  //     if (!response.ok) {
-  //       throw new Error(`HTTP error! Status: ${response.status}`);
-  //     }
-  //     const data = await response.json();
-  //     setInventoryItems(data); // Assuming 'data' is the array of items
-  //     setIsLoading(false);
-  //   } catch (error) {
-  //     console.error("Error fetching data: ", error);
-  //     setIsLoading(false);
-  //   }
-  // };
-
-  const fetchInventory = async () => {
     try {
       setIsLoading(true);
-      const response = await fetch('/test.json');  // Fetching from the local file
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      const data = await response.json();
+      setInventoryItems(data); // Assuming 'data' is the array of items
+      setIsLoading(false);
+    } catch (error) {
+      console.error("Error fetching data: ", error);
+      setIsLoading(false);
+    }
+  };
+
+  const fetchInventoryStatic = async (steamId) => {
+    try {
+      setIsLoading(true);
+      const filename = `${steamId}.json`
+      const response = await fetch(filename);  // Fetching from the local file
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
       }
@@ -74,17 +78,20 @@ function App() {
     setCategoryTotals(newTotals);
   };
   
-  
-  
-  
-
   //Handle search
   const handleSearch = async (steamId) => {
     console.log('Searching for:', steamId);
+    setInventoryItems([]); // Clear the inventory items
+    setInventoryValue(0); // Clear the inventory value
     // Add your search logic here
     setIsLoading(true);
-    const inventoryData = await fetchInventory(steamId);
-    console.log(inventoryData);
+    if (steamId === 'Kian' || steamId === 'Todd') {
+      const inventoryData = await fetchInventoryStatic(steamId);
+      console.log(inventoryData);
+    } else {
+      const inventoryData = await fetchInventory(steamId);
+      console.log(inventoryData);
+    }
     setIsLoading(false);
   };
 
@@ -103,7 +110,7 @@ function App() {
 
   return (
       <div className="p-4 bg-gray-900 min-h-screen">
-        <h1 className="text-gray-100 text-4xl font-bold text-center pb-4">CS2 Inventory Value Dashboard</h1>
+        <h1 className="text-gray-100 text-4xl font-bold text-center pb-4 text-wrap">CS2 Inventory Value Dashboard</h1>
         <div className="flex items-center">
           <SearchBar onSearch={handleSearch} />
           <div className=''>
@@ -116,15 +123,25 @@ function App() {
         </div>
 
         <div className='grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-6 gap-4 mt-6 w-full grid-flow-row-dense'>
-          <div className='flex row-span-1 col-span-1 bg-gray-800 rounded-3xl p-2 w-full h-full items-center'>
-            <h1 className='text-gray-100 text-2xl font-bold text-center'>insert profile pic<br/><br/>Total Inventory Value:<br/>${inventoryValue}</h1>
+          <div className='flex row-span-1 col-span-1 bg-gray-800 rounded-3xl p-2 w-full h-full justify-center'>
+            <div className='flex flex-col p-2 justify-center'>
+              <img src="https://avatars.akamai.steamstatic.com/6384b8297577d2e1ffc8a558e4e808292dca0d88_full.jpg" alt="User Profile Picture" className="rounded-2xl bg-gray-800 p-1 mb-2 transition duration-200 ease-in-out w-full ring-2 ring-[#219ebc] hover:ring-4 hover:bg-gray-700"/>
+              <h1 className='text-gray-100 text-xl font-bold text-center'>Inventory Value:</h1>
+              <h1 className='text-gray-100 text-2xl font-bold text-center'>${inventoryValue}</h1>
+            </div>
           </div>
           <div className='row-span-1 col-span-1 bg-gray-800 rounded-3xl p-2'>
             <h1 className='text-gray-100 text-2xl font-bold text-center'>Leaderboard</h1>
             <Leaderboard items={items} />
           </div>
           <div className='row-span-2 col-span-2 bg-gray-800 rounded-3xl p-2 items-center'>
-            <h1 className='text-gray-100 text-2xl font-bold text-center mb-2'>Inventory Value Percentages</h1>
+            <div className='flex'>
+              <h1 className='text-gray-100 text-2xl font-bold text-center mb-2 flex-grow'>Inventory Value Percentages</h1>
+              <div className="tooltip mr-2 mt-1">
+                <div className="icon">i</div>
+                <div className="tooltiptext">Click the legends to hide that section!</div>
+              </div>
+            </div>
             <PieChart chartData={categoryTotals} />
           </div>
           <div className='row-span-1 col-span-2 bg-gray-800 rounded-3xl p-2'>
@@ -134,6 +151,10 @@ function App() {
           <div className='col-span-2 bg-gray-800 rounded-3xl p-2'>
             <h1 className='text-gray-100 text-2xl font-bold text-center'>Inventory Value History</h1>
             <LineGraph />
+          </div>
+          <div className='col-span-2 bg-gray-800 rounded-3xl p-2'>
+            <h1 className='text-gray-100 text-2xl font-bold text-center'>StatTrack Leaderboard</h1>
+            <Leaderboard items={items} />
           </div>
         </div>
         {isLoading && (

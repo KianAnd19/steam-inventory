@@ -9,7 +9,11 @@ function ScrollableList({ items }) {
           className="p-2 border-b border-gray-700"
           style={{ color: `#${item.color}` }}  // Setting the text color dynamically
         >
-          {item.markethashname} {/* Use the appropriate field from the item */}
+          <div className="text-sm flex">
+            <img src={item.image} alt={item.name} className="inline-block w-12 h-12 mr-2"/>
+            <div className='flex-grow'>{item.markethashname}</div>
+            <div className='object-right'>${item.pricelatest}</div>
+          </div>
         </div>
       ))}
     </div>
