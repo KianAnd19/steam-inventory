@@ -2,13 +2,13 @@ import React from 'react';
 import { Pie } from 'react-chartjs-2';
 import 'chart.js/auto';
 
-const PieChart = () => {
+const PieChart = ({chartData}) => {
   const data = {
-    labels: ['Weapons', 'Stickers', 'Cases', 'Graffiti', 'Purple', 'Orange'],
+    labels: Object.keys(chartData),
     datasets: [
       {
         label: '',
-        data: [20, 19, 3, 5, 2, 3],
+        data: Object.values(chartData),
         backgroundColor: [
           'rgba(255, 99, 132, 0.4)',
           'rgba(54, 162, 235, 0.4)',

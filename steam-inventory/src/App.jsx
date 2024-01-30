@@ -14,6 +14,8 @@ function App() {
   const [inventoryValue, setInventoryValue] = useState(0);
 
   const items = [{ name: 'Item 1' }, { name: 'Item 2' }, { name: 'Item 3'}, { name: 'Item 4' }, { name: 'Item 5' }, { name: 'Item 6'}, { name: 'Item 7' }, { name: 'Item 8' }, { name: 'Item 9'}];
+  const [categoryTotals, setCategoryTotals] = useState({"Weapon": 20, "Sticker": 19, "Container": 3, "Graffiti": 5, "Music Kit": 2});
+
 
   // const fetchInventory = async (steamId) => {
   //   const apiKey = import.meta.env.VITE_API_KEY;
@@ -50,8 +52,6 @@ function App() {
 
       const categoryTotals = categorizeAndSummarize(data);
       console.log(categoryTotals);
-
-
       setIsLoading(false);
     } catch (error) {
       console.error("Error fetching data: ", error);
@@ -60,18 +60,20 @@ function App() {
   };
 
   const categorizeAndSummarize = (items) => {
-    const totalsByCategory = {};
+    const newTotals = {"Weapon": 0, "Sticker": 0, "Container": 0, "Graffiti": 0, "Music Kit": 0};
   
     items.forEach(item => {
-      const category = item.tags[1].category;  // Adjust this to match your item's category field
-      if (!totalsByCategory[category]) {
-        totalsByCategory[category] = 0;
+      const category = item.tags[0].localized_tag_name;
+      if (category in newTotals) {
+        newTotals[category] += item.pricelatest;
+      } else {
+        newTotals["Weapon"] += item.pricelatest;  // Default to 'Weapon' if category not found
       }
-      totalsByCategory[category] += item.pricelatest;  // Or use another field for value
     });
   
-    return totalsByCategory;
+    setCategoryTotals(newTotals);
   };
+  
   
   
   
@@ -115,7 +117,7 @@ function App() {
 
         <div className='grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-6 gap-4 mt-6 w-full grid-flow-row-dense'>
           <div className='flex row-span-1 col-span-1 bg-gray-800 rounded-3xl p-2 w-full h-full items-center'>
-            <h1 className='text-gray-100 text-2xl font-bold text-center'>Total Inventory Value:<br/>${inventoryValue}</h1>
+            <h1 className='text-gray-100 text-2xl font-bold text-center'>insert profile pic<br/><br/>Total Inventory Value:<br/>${inventoryValue}</h1>
           </div>
           <div className='row-span-1 col-span-1 bg-gray-800 rounded-3xl p-2'>
             <h1 className='text-gray-100 text-2xl font-bold text-center'>Leaderboard</h1>
@@ -123,7 +125,7 @@ function App() {
           </div>
           <div className='row-span-2 col-span-2 bg-gray-800 rounded-3xl p-2 items-center'>
             <h1 className='text-gray-100 text-2xl font-bold text-center mb-2'>Inventory Value Percentages</h1>
-            <PieChart />
+            <PieChart chartData={categoryTotals} />
           </div>
           <div className='row-span-1 col-span-2 bg-gray-800 rounded-3xl p-2'>
             <h1 className='text-gray-100 text-2xl font-bold text-center'>Inventory List</h1>
@@ -139,6 +141,11 @@ function App() {
             <Loader />
           </div>
         )}
+
+        {/* Still need to add more stuff to the footer */}
+        <footer className="text-gray-100 text-center text-xs mt-4">
+          <p>Created by <a href="https://github.com/KianAnd19" className="underline">Kian Anderson</a></p>
+        </footer>
       </div>  
   );
 }
