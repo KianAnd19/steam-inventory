@@ -2,7 +2,7 @@ import React from 'react';
 
 function ScrollableList({ items }) {
     return (
-      <div className="max-h-64 overflow-y-auto">
+      <div className="overflow-y-auto w-full h-full">
         {items.map((item, index) => (
           <div key={index} className="p-4 border-b border-gray-400 text-white">
             {item.name} {/* Replace with how you want to display each item */}
