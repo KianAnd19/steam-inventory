@@ -11,7 +11,7 @@ const LineChart = () => {
         data: [3, 2, 2, 1, 5, 3],
         fill: false,
         backgroundColor: 'rgb(75, 192, 192)',
-        borderColor: 'rgba(75, 192, 192, 0.2)',
+        borderColor: 'rgba(75, 192, 192, 0.4)',
       },
       // You can add more datasets here if you need to plot more lines
     ],

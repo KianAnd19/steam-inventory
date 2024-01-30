@@ -9,7 +9,15 @@ export default {
 
 module.exports = {
   content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'],
-  // ... rest of the config
+  theme: {
+    extend: {
+      screens: {
+        'dark': {'raw': '(prefers-color-scheme: dark)'},
+        // => @media (prefers-color-scheme: dark) { ... }
+      }
+    }
+  }
+
 }
 
 
