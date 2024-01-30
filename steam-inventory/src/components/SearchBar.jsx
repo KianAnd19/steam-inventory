@@ -14,7 +14,7 @@ function SearchBar({ onSearch }) {
 
   return (
     <form onSubmit={handleSubmit} className="flex-grow">
-      <input type="text" placeholder="Enter Steam ID here..." name="text" class="input"/>
+      <input type="text" placeholder="Enter Steam ID here..." name="text" className="input"/>
     </form>
   );
 }
