@@ -22,7 +22,7 @@ function App() {
 
   const fetchInventory = async (steamId) => {
     const apiKey = import.meta.env.VITE_API_KEY;
-    const url = `https://www.steamwebapi.com/steam/api/inventory?key=${apiKey}&steam_id=${steamId}`;
+    const url = `http://localhost:3000/inventory?steamId=${steamId}`;
 
     try {
       setIsLoading(true);
@@ -32,6 +32,14 @@ function App() {
       }
       const data = await response.json();
       setInventoryItems(data); // Assuming 'data' is the array of items
+      
+      // Calculate total inventory value
+      const total = data.reduce((sum, item) => sum + item.pricelatest, 0).toFixed(2);
+      setInventoryValue(total);
+
+      const categoryTotals = categorizeAndSummarize(data);
+      console.log(categoryTotals);
+
       setIsLoading(false);
     } catch (error) {
       console.error("Error fetching data: ", error);
@@ -114,7 +122,7 @@ function App() {
         <div className="flex items-center">
           <SearchBar onSearch={handleSearch} />
           <div className=''>
-            <img src="https://cdn-wp.thesportsrush.com/2023/09/8a83edd8-cs2.jpg?w=3840&q=60" alt="CSGO Logo" className="max-h-12 rounded-md ml-6"/>
+            <img src="https://cdn-wp.thesportsrush.com/2023/09/8a83edd8-cs2.jpg?w=3840&q=60" alt="CSGO Logo" className="max-h-12 rounded-md ml-6 ring-2 ring-gray-300"/>
           </div>
           <label className="switch ml-4">
             <input type="checkbox"/>
