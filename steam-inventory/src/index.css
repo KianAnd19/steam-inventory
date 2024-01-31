@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: #121826;
+}
 
 .input {
   border-radius: 10px;
@@ -305,16 +308,16 @@ input:checked + .slider:before {
 .tooltiptext {
   visibility: hidden;
   width: 200px;
-  background-color: #4A5568AA;
+  background-color: #4A5568;
   color: #fff;
   text-align: center;
   border-radius: 5px;
   padding: 10px;
   position: absolute;
   z-index: 1;
-  top: 125%;
-  left: 50%;
-  margin-left: -100px;
+  bottom: 50%;
+  right: 125%; /* Align to the left */
+  transform: translateY(50%); /* Center vertically relative to the parent */
   opacity: 0;
   transition: opacity 0.3s;
 }
@@ -322,13 +325,14 @@ input:checked + .slider:before {
 .tooltiptext::after {
   content: "";
   position: absolute;
-  top: -10px;
-  left: 50%;
-  margin-left: -10px;
+  top: 50%;
+  left: 100%; /* Arrow on the right side */
+  margin-top: -10px;
   border-width: 10px;
   border-style: solid;
-  border-color: transparent transparent #4A556800 transparent;
+  border-color: transparent #4A556800 transparent transparent;
 }
+
 
 .tooltip .icon {
   display: inline-block;
