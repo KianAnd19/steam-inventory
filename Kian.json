@@ -1,0 +1,4966 @@
+[
+    {
+        "id": "513ee88a-a08a-4088-97bb-4f69b694821a",
+        "markethashname": "AWP | Neo-Noir (Field-Tested)",
+        "marketname": "AWP | Neo-Noir (Field-Tested)",
+        "slug": "awp-neo-noir-field-tested",
+        "count": 1,
+        "assetid": "32886278143",
+        "classid": "5328277356",
+        "groupid": "16f11a5ecd2362bcf5a25cd24cce3b5f",
+        "instanceid": "188530139",
+        "nameid": 176024828,
+        "hashid": "b7c4ba9b0ab4a5b1c2904d8fff026ed2",
+        "itemgroup": "sniper rifle",
+        "itemname": "neo-noir",
+        "itemtype": "awp",
+        "pricelatest": 20.49,
+        "pricelatestsell": 20.61,
+        "pricemix": 20.61,
+        "pricemedian": 21.1,
+        "pricesafe": 20.15,
+        "priceavg": 20.97,
+        "pricemin": 20.08,
+        "pricemax": 30.52,
+        "pricesafe24h": 20.65,
+        "pricesafe7d": 20.65,
+        "pricesafe30d": 23.23,
+        "pricesafe90d": 24.77,
+        "priceupdatedat": {
+            "date": "2024-01-29 18:00:16.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 14.87,
+        "pricereal24h": 14.84,
+        "pricereal7d": 16.19,
+        "pricereal30d": 15.23,
+        "pricereal90d": null,
+        "winloss": 27.85,
+        "trendpoint": 35,
+        "offervolume": 381,
+        "hourstosold": 1,
+        "sold24h": 201,
+        "sold7d": 1127,
+        "sold30d": 4990,
+        "sold90d": 18860,
+        "buyorderprice": 19.86,
+        "buyordermedian": 19.58,
+        "buyorderavg": 19.73,
+        "buyordervolume": 5116,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "eb4b4b",
+        "quality": "normal",
+        "rarity": "covert",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJM6dO4m4mZqPrxN7LEm1Rd6dd2j6eV9I_2iwLk_EZrZ22gJNWXcQQ7Y1jV_Qe_kOfr08e0vJXOzHJhuHV2-z-DyGLCbG22",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_SniperRifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Sniper Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_awp",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "AWP"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_21",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Danger Zone Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Ancient_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Covert",
+                "color": "eb4b4b"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            },
+            {
+                "category": "Tournament",
+                "internal_name": "Tournament21",
+                "localized_category_name": "Tournament",
+                "localized_tag_name": "BLAST.tv Paris 2023"
+            },
+            {
+                "category": "TournamentTeam",
+                "internal_name": "Team120",
+                "localized_category_name": "Team",
+                "localized_tag_name": "9INE"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with two stylized blue-magenta women over a grayscale background.\n\n<i>\"They took comfort in each other's despair\"</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Danger Zone Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/nein_glitter.3c879cf9745714956d1c2e6308ce1b6b02f86567.png\"><br>Sticker: 9INE (Glitter) | Paris 2023</center></div>"
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D12024690858864836227",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1544054408326",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A32886278143D12024690858864836227",
+        "inspectlinkparsed": {
+            "a": "32886278143",
+            "s": "76561198301205885",
+            "d": "2024690858864836227"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "54d6f5ed-ac66-4a5d-9bdf-f52a67339124",
+        "markethashname": "AK-47 | Point Disarray (Field-Tested)",
+        "marketname": "AK-47 | Point Disarray (Field-Tested)",
+        "slug": "ak-47-point-disarray-field-tested",
+        "count": 1,
+        "assetid": "18987905976",
+        "classid": "3242260923",
+        "groupid": "ee5310684860e6cf602883f4383418c9",
+        "instanceid": "480085569",
+        "nameid": 84444477,
+        "hashid": "2e191fa8129d7a3cb3dee38b09864438",
+        "itemgroup": "rifle",
+        "itemname": "point disarray",
+        "itemtype": "ak-47",
+        "pricelatest": 8.7,
+        "pricelatestsell": 8.65,
+        "pricemix": 8.65,
+        "pricemedian": 8.77,
+        "pricesafe": 8.28,
+        "priceavg": 8.75,
+        "pricemin": 8.18,
+        "pricemax": 12.83,
+        "pricesafe24h": 8.32,
+        "pricesafe7d": 8.32,
+        "pricesafe30d": 9.36,
+        "pricesafe90d": 10.17,
+        "priceupdatedat": {
+            "date": "2024-01-29 18:31:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 6.01,
+        "pricereal24h": 6,
+        "pricereal7d": 6.43,
+        "pricereal30d": 6.42,
+        "pricereal90d": null,
+        "winloss": 30.52,
+        "trendpoint": 50,
+        "offervolume": 407,
+        "hourstosold": 1,
+        "sold24h": 275,
+        "sold7d": 1496,
+        "sold30d": 6599,
+        "sold90d": 25778,
+        "buyorderprice": 8.19,
+        "buyordermedian": 8.17,
+        "buyorderavg": 8.15,
+        "buyordervolume": 7892,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "d32ce6",
+        "quality": "normal",
+        "rarity": "classified",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08y5nY6fqPP9ILrDhGpI18h0juDU-LP5iUazrl04YW-lLNSTIVU7ZV3U-FK6ku_tgp_vu53NySZhvSJ35XvUlxS1iB5FcKUx0hzV6cx4",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Rifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_ak47",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "AK-47"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_10",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Revolver Case Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Legendary_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Classified",
+                "color": "d32ce6"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            },
+            {
+                "category": "Tournament",
+                "internal_name": "Tournament11",
+                "localized_category_name": "Tournament",
+                "localized_tag_name": "2017 ELEAGUE Atlanta"
+            },
+            {
+                "category": "TournamentTeam",
+                "internal_name": "Team67",
+                "localized_category_name": "Team",
+                "localized_tag_name": "GODSENT"
+            },
+            {
+                "category": "ProPlayer",
+                "internal_name": "jw",
+                "localized_category_name": "Professional Player",
+                "localized_tag_name": "JW (Jesper Wecksell)"
+            },
+            {
+                "category": "ProPlayer",
+                "internal_name": "flusha",
+                "localized_category_name": "Professional Player",
+                "localized_tag_name": "flusha (Robin Rönnquist)"
+            },
+            {
+                "category": "ProPlayer",
+                "internal_name": "lekro",
+                "localized_category_name": "Professional Player",
+                "localized_tag_name": "Lekr0 (Jonas Olofsson)"
+            },
+            {
+                "category": "ProPlayer",
+                "internal_name": "pronax",
+                "localized_category_name": "Professional Player",
+                "localized_tag_name": "pronax (Markus Wallsten)"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with a geometric hydrographic.\n\n<i>Up close it is chaos... from a distance it is beauty - Franz Kriegeld, Phoenix Tactician</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Revolver Case Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/sig_jw.6c05029422f5d108c213878d90ee74f9d36e5c71.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/sig_flusha.234bef74a63ebb20aa124183ab574307a1a5a35d.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/sig_lekro.80a87b579c232c575ecf8ef404f0127fd1aac887.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/sig_pronax.8cad3c415119e159dfea2e2329a80b33aa651e43.png\"><br>Sticker: JW | Atlanta 2017, flusha | Atlanta 2017, Lekr0 | Atlanta 2017, pronax | Atlanta 2017</center></div>"
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7350627354854844305",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1449619201775",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A18987905976D7350627354854844305",
+        "inspectlinkparsed": {
+            "a": "18987905976",
+            "s": "76561198301205885",
+            "d": "350627354854844305"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "16cfa09a-b563-479c-8f7a-fa01ef1c7996",
+        "markethashname": "M4A4 | Neo-Noir (Field-Tested)",
+        "marketname": "M4A4 | Neo-Noir (Field-Tested)",
+        "slug": "m4a4-neo-noir-field-tested",
+        "count": 1,
+        "assetid": "32886288581",
+        "classid": "5330143029",
+        "groupid": "b302f821e2c28b73baf6e555f132d18d",
+        "instanceid": "188530139",
+        "nameid": 175966802,
+        "hashid": "3988b293e51b272d531849d24b105bbd",
+        "itemgroup": "rifle",
+        "itemname": "neo-noir",
+        "itemtype": "m4a4",
+        "pricelatest": 5.26,
+        "pricelatestsell": 5.36,
+        "pricemix": 5.36,
+        "pricemedian": 5.38,
+        "pricesafe": 5.28,
+        "priceavg": 5.37,
+        "pricemin": 5.25,
+        "pricemax": 8.3,
+        "pricesafe24h": 5.32,
+        "pricesafe7d": 5.32,
+        "pricesafe30d": 5.95,
+        "pricesafe90d": 6.41,
+        "priceupdatedat": {
+            "date": "2024-01-29 14:44:06.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 3.96,
+        "pricereal24h": 3.96,
+        "pricereal7d": 3.97,
+        "pricereal30d": 4.01,
+        "pricereal90d": null,
+        "winloss": 26.12,
+        "trendpoint": 35,
+        "offervolume": 636,
+        "hourstosold": 1,
+        "sold24h": 333,
+        "sold7d": 2182,
+        "sold30d": 9923,
+        "sold90d": 43701,
+        "buyorderprice": 5.22,
+        "buyordermedian": 5.19,
+        "buyorderavg": 5.17,
+        "buyordervolume": 27555,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "eb4b4b",
+        "quality": "normal",
+        "rarity": "covert",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09Kzm7-FmP7mDLbUkmJE5fp9i_vG8MKhigft8kVsZmGhd4WTdwE9NFGErFnqxbzvg5W6uM7IyyRm7CYnti3YgVXp1vjKz5XZ",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Rifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_m4a1",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "M4A4"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_19",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Clutch Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Ancient_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Covert",
+                "color": "eb4b4b"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            },
+            {
+                "category": "Tournament",
+                "internal_name": "Tournament21",
+                "localized_category_name": "Tournament",
+                "localized_tag_name": "BLAST.tv Paris 2023"
+            },
+            {
+                "category": "TournamentTeam",
+                "internal_name": "Team120",
+                "localized_category_name": "Team",
+                "localized_tag_name": "9INE"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a stylized blue-magenta woman over a grayscale background.\n\n<i>\"She grabbed what she could and disappeared into a decaying dystopia\"</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Clutch Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/nein_glitter.3c879cf9745714956d1c2e6308ce1b6b02f86567.png\"><br>Sticker: 9INE (Glitter) | Paris 2023</center></div>"
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7514368268112061152",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1518739204391",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A32886288581D7514368268112061152",
+        "inspectlinkparsed": {
+            "a": "32886288581",
+            "s": "76561198301205885",
+            "d": "514368268112061152"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "aac302ac-0c3c-433d-80de-f43a512898e3",
+        "markethashname": "StatTrak™ AUG | Arctic Wolf (Field-Tested)",
+        "marketname": "StatTrak™ AUG | Arctic Wolf (Field-Tested)",
+        "slug": "stattraktm-aug-arctic-wolf-field-tested",
+        "count": 1,
+        "assetid": "33678668362",
+        "classid": "3608084880",
+        "groupid": "541743c5493479ec39c67a6fb8c860b7",
+        "instanceid": "188534318",
+        "nameid": 176096689,
+        "hashid": "f7d1ee94d8326d9711f8228405f577b4",
+        "itemgroup": "rifle",
+        "itemname": "arctic wolf",
+        "itemtype": "aug",
+        "pricelatest": 4.45,
+        "pricelatestsell": 4.25,
+        "pricemix": 4.25,
+        "pricemedian": 4.6,
+        "pricesafe": 4.38,
+        "priceavg": 4.63,
+        "pricemin": 4.25,
+        "pricemax": 7.39,
+        "pricesafe24h": 4.27,
+        "pricesafe7d": 4.27,
+        "pricesafe30d": 5.12,
+        "pricesafe90d": 5.42,
+        "priceupdatedat": {
+            "date": "2024-01-29 16:12:12.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 3.26,
+        "pricereal24h": 3.54,
+        "pricereal7d": 3.65,
+        "pricereal30d": 3.71,
+        "pricereal90d": null,
+        "winloss": 23.29,
+        "trendpoint": 40,
+        "offervolume": 86,
+        "hourstosold": 1,
+        "sold24h": 32,
+        "sold7d": 123,
+        "sold30d": 441,
+        "sold90d": 1854,
+        "buyorderprice": 4.34,
+        "buyordermedian": 4.32,
+        "buyorderavg": 4.33,
+        "buyordervolume": 8636,
+        "nametag": null,
+        "bordercolor": "CF6A32",
+        "color": "8847ff",
+        "quality": "strange",
+        "rarity": "restricted",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLddgJV5NWikYaKmfDLPr7Vn35c18lwmO7Eu4jx2lft_hdoY2z6JNSdIAE3aQzW_la3xrjogcS6vZ_My3A1viUgsHfD30vgryB_M74",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Rifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_aug",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "AUG"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_23",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Shattered Web Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "strange",
+                "localized_category_name": "Category",
+                "localized_tag_name": "StatTrak™",
+                "color": "CF6A32"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Mythical_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Restricted",
+                "color": "8847ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.",
+                "color": "99ccff"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "StatTrak™ Confirmed Kills: 67",
+                "color": "CF6A32"
+            },
+            {
+                "type": "html",
+                "value": "*Stats for this item will reset when used in Steam Trading or Community Market",
+                "color": "ff4040"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A custom paint job has been applied which resembles the white coat of an arctic wolf.\n\n<i>Every round is a 1v5</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Shattered Web Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D12540988585892920418",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1574121605888",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A33678668362D12540988585892920418",
+        "inspectlinkparsed": {
+            "a": "33678668362",
+            "s": "76561198301205885",
+            "d": "2540988585892920418"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": true,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "a5f23be1-4b76-49e8-8812-770c41356456",
+        "markethashname": "StatTrak™ Desert Eagle | Trigger Discipline (Minimal Wear)",
+        "marketname": "StatTrak™ Desert Eagle | Trigger Discipline (Minimal Wear)",
+        "slug": "stattraktm-desert-eagle-trigger-discipline-minimal-wear",
+        "count": 1,
+        "assetid": "33437741369",
+        "classid": "5541823287",
+        "groupid": "230ce6500d30e9eb4da2e762433ab4b3",
+        "instanceid": "907631484",
+        "nameid": 176241082,
+        "hashid": "1ec0a33088774d4f97474e9a9bf92e6c",
+        "itemgroup": "pistol",
+        "itemname": "trigger discipline",
+        "itemtype": "desert eagle",
+        "pricelatest": 3.68,
+        "pricelatestsell": 1.08,
+        "pricemix": 2.6,
+        "pricemedian": 3.7,
+        "pricesafe": 3.42,
+        "priceavg": 3.69,
+        "pricemin": 1.04,
+        "pricemax": 5.7,
+        "pricesafe24h": 3.59,
+        "pricesafe7d": 3.59,
+        "pricesafe30d": 3.86,
+        "pricesafe90d": 4.08,
+        "priceupdatedat": {
+            "date": "2024-01-29 16:45:19.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 2.6,
+        "pricereal24h": 2.63,
+        "pricereal7d": 2.69,
+        "pricereal30d": 2.7,
+        "pricereal90d": null,
+        "winloss": -140.74,
+        "trendpoint": 50,
+        "offervolume": 243,
+        "hourstosold": 1,
+        "sold24h": 123,
+        "sold7d": 663,
+        "sold30d": 3002,
+        "sold90d": 12364,
+        "buyorderprice": 3.42,
+        "buyordermedian": 3.3,
+        "buyorderavg": 3.37,
+        "buyordervolume": 17051,
+        "nametag": null,
+        "bordercolor": "CF6A32",
+        "color": "8847ff",
+        "quality": "strange",
+        "rarity": "restricted",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7duJgJKCkPDxIYTVn3hS4dV9g-fEyoD8j1yglB89IT6mOo_BegA_ZFHU_we-xue6hsC76czBzSFmvSJ0sXzZmxW_100ZaOZrhKaACQLJyKyK7VI",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_deagle",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Desert Eagle"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_28",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Snakebite Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "strange",
+                "localized_category_name": "Category",
+                "localized_tag_name": "StatTrak™",
+                "color": "CF6A32"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Mythical_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Restricted",
+                "color": "8847ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory1",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Minimal Wear"
+            },
+            {
+                "category": "Tournament",
+                "internal_name": "Tournament21",
+                "localized_category_name": "Tournament",
+                "localized_tag_name": "BLAST.tv Paris 2023"
+            },
+            {
+                "category": "TournamentTeam",
+                "internal_name": "Team120",
+                "localized_category_name": "Team",
+                "localized_tag_name": "9INE"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Minimal Wear"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.",
+                "color": "99ccff"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "StatTrak™ Confirmed Kills: 2678",
+                "color": "CF6A32"
+            },
+            {
+                "type": "html",
+                "value": "*Stats for this item will reset when used in Steam Trading or Community Market",
+                "color": "ff4040"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A pink isometric pattern has been custom painted on the barrel. The hammer and front sight have been painted bright blue.\n\n<i>Patience is its own reward</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Snakebite Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/enfu_capsule/guru.742e561f4b693ca598f187d9d6825f274a5cd997.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/nein_glitter.3c879cf9745714956d1c2e6308ce1b6b02f86567.png\"><br>Sticker: The Guru, 9INE (Glitter) | Paris 2023</center></div>"
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D13865081366003607587",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1619996407780",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A33437741369D13865081366003607587",
+        "inspectlinkparsed": {
+            "a": "33437741369",
+            "s": "76561198301205885",
+            "d": "3865081366003607587"
+        },
+        "markettradablerestriction": 7,
+        "wear": "mw",
+        "isstar": false,
+        "isstattrak": true,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "64770b5b-3875-4027-ab8a-0788c00174e0",
+        "markethashname": "MAC-10 | Disco Tech (Field-Tested)",
+        "marketname": "MAC-10 | Disco Tech (Field-Tested)",
+        "slug": "mac-10-disco-tech-field-tested",
+        "count": 1,
+        "assetid": "32217878953",
+        "classid": "5332385344",
+        "groupid": "4c505070f9e5f35313543cf01d1910a4",
+        "instanceid": "480085569",
+        "nameid": 176118320,
+        "hashid": "877fecb5b90426f27140d43490c15cba",
+        "itemgroup": "smg",
+        "itemname": "disco tech",
+        "itemtype": "mac-10",
+        "pricelatest": 2.48,
+        "pricelatestsell": 2.28,
+        "pricemix": 2.28,
+        "pricemedian": 2.5,
+        "pricesafe": 2.2,
+        "priceavg": 2.52,
+        "pricemin": 1.03,
+        "pricemax": 3.5,
+        "pricesafe24h": 2.3,
+        "pricesafe7d": 2.3,
+        "pricesafe30d": 2.49,
+        "pricesafe90d": 2.56,
+        "priceupdatedat": {
+            "date": "2024-01-29 13:41:01.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 1.59,
+        "pricereal24h": 1.62,
+        "pricereal7d": 1.73,
+        "pricereal30d": 1.7,
+        "pricereal90d": null,
+        "winloss": 30.26,
+        "trendpoint": 40,
+        "offervolume": 843,
+        "hourstosold": 1,
+        "sold24h": 279,
+        "sold7d": 2049,
+        "sold30d": 10510,
+        "sold90d": 40383,
+        "buyorderprice": 2.2,
+        "buyordermedian": 2.18,
+        "buyorderavg": 2.17,
+        "buyordervolume": 100739,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "d32ce6",
+        "quality": "normal",
+        "rarity": "classified",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJmoGIhfLLPr7Vn35c18lwmO7Eu42giVbg-RY4MTylJYSSdgQ6M1_YrlS4x-_vjZPov5nNyndjuCghtnnD30vgC8iQ-N0",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_SMG",
+                "localized_category_name": "Type",
+                "localized_tag_name": "SMG"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_mac10",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "MAC-10"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_25",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Prisma 2 Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Legendary_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Classified",
+                "color": "d32ce6"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            },
+            {
+                "category": "Tournament",
+                "internal_name": "Tournament21",
+                "localized_category_name": "Tournament",
+                "localized_tag_name": "BLAST.tv Paris 2023"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted using a pearlescent finish to resemble holographic self-adhesive vinyl. Depending on the light its appearance changes.\n\n<i>Watch when you point that thing</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Prisma 2 Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/blst_holo.683dccc90b319a665ca3ef903212353170f0a1e0.png\"><br>Sticker: BLAST.tv (Holo) | Paris 2023</center></div>"
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D1038304428410612299",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1585695603918",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A32217878953D1038304428410612299",
+        "inspectlinkparsed": {
+            "a": "32217878953",
+            "s": "76561198301205885",
+            "d": "038304428410612299"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "d6094735-a1cf-408a-b076-c829ef0df537",
+        "markethashname": "Music Kit | Denzel Curry, ULTIMATE",
+        "marketname": "Music Kit | Denzel Curry, ULTIMATE",
+        "slug": "music-kit-denzel-curry-ultimate",
+        "count": 1,
+        "assetid": "32410014080",
+        "classid": "5199660222",
+        "groupid": "ef19e9306301674991ab66bc8d64aaeb",
+        "instanceid": "143865972",
+        "nameid": 176359970,
+        "hashid": "f960c634c3a133d03ec4f596dfb187d9",
+        "itemgroup": "music kit",
+        "itemname": "denzel curry, ultimate",
+        "itemtype": null,
+        "pricelatest": 2.22,
+        "pricelatestsell": 2.24,
+        "pricemix": 2.24,
+        "pricemedian": 2.27,
+        "pricesafe": 2.03,
+        "priceavg": 2.27,
+        "pricemin": 0.93,
+        "pricemax": 4.08,
+        "pricesafe24h": 2.2,
+        "pricesafe7d": 2.2,
+        "pricesafe30d": 2.41,
+        "pricesafe90d": 2.64,
+        "priceupdatedat": {
+            "date": "2024-01-29 18:27:12.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 1.53,
+        "pricereal24h": 1.64,
+        "pricereal7d": 1.6,
+        "pricereal30d": 1.67,
+        "pricereal90d": null,
+        "winloss": 31.7,
+        "trendpoint": 40,
+        "offervolume": 930,
+        "hourstosold": 1,
+        "sold24h": 345,
+        "sold7d": 2125,
+        "sold30d": 10551,
+        "sold90d": 45792,
+        "buyorderprice": 2.03,
+        "buyordermedian": 2.01,
+        "buyorderavg": 2,
+        "buyordervolume": 162075,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "high grade",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jVSf6o28zGQU9tGlQG-LnzeFc40fadID8WvN_gx4PblvPwMe6AxG1X7pB12OqYot2miVexqBJyIzekO47Pzk8",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_MusicKit",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Music Kit"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "High Grade",
+                "color": "4b69ff"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "This Music Kit will replace all of the music in the game and is shareable with anyone you are playing with. It also includes an MVP Anthem that plays for everyone in the match when you are MVP.\n\nThe Music Kit replaces the following music:\n- Main Menu\n- Round Start and End\n- Map Objective\n- Ten Second Warning\n- Death Camera"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Denzel brings his signature energy to CS:GO as he traverses trap, jazz, and drum and bass beats. This kit features Denzel's hits \"Walkin\", \"ULTIMATE\", and more, so break out the nickel-plated chrome Berettas and crank up the intensity with the ULTIMATE music kit."
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": null,
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1676620805444",
+        "inspectlink": null,
+        "inspectlinkparsed": null,
+        "markettradablerestriction": 7,
+        "wear": null,
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "b5ef2444-e59d-46fe-a914-da855bf98c21",
+        "markethashname": "Guardian 3 Pin",
+        "marketname": "Guardian 3 Pin",
+        "slug": "guardian-3-pin",
+        "count": 1,
+        "assetid": "33047210420",
+        "classid": "2750363399",
+        "groupid": "478698b9b264385a7f400ba71e06af05",
+        "instanceid": "188530139",
+        "nameid": 175970599,
+        "hashid": "eee888f0c416e9cabbddd7eacaa66b88",
+        "itemgroup": "collectible",
+        "itemname": "guardian 3 pin",
+        "itemtype": null,
+        "pricelatest": 2.2,
+        "pricelatestsell": 2.22,
+        "pricemix": 2.22,
+        "pricemedian": 2.23,
+        "pricesafe": 2.16,
+        "priceavg": 2.24,
+        "pricemin": 1.45,
+        "pricemax": 2.79,
+        "pricesafe24h": 2.18,
+        "pricesafe7d": 2.18,
+        "pricesafe30d": 2.17,
+        "pricesafe90d": 2.22,
+        "priceupdatedat": {
+            "date": "2024-01-29 16:14:03.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 1.58,
+        "pricereal24h": 1.58,
+        "pricereal7d": 1.42,
+        "pricereal30d": 1.46,
+        "pricereal90d": null,
+        "winloss": 28.83,
+        "trendpoint": 55,
+        "offervolume": 233,
+        "hourstosold": 1,
+        "sold24h": 88,
+        "sold7d": 518,
+        "sold30d": 2473,
+        "sold90d": 10004,
+        "buyorderprice": 2.16,
+        "buyordermedian": 1.89,
+        "buyorderavg": 1.88,
+        "buyordervolume": 14464,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "high grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAB10uHMeDxM04-JmIGZkPK6N--Fz2pUvsZy07HEpY-i3VLhrUppNmD0doeRdlM5NV_Q-1C_krq60Yj84soQnOvujw",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Collectible",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Collectible"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "High Grade",
+                "color": "4b69ff"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "This is a Series 3 collectible pin. It can be displayed on your CS:GO profile."
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2370317664873142299",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1519948809555",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A33047210420D2370317664873142299",
+        "inspectlinkparsed": {
+            "a": "33047210420",
+            "s": "76561198301205885",
+            "d": "370317664873142299"
+        },
+        "markettradablerestriction": 7,
+        "wear": null,
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "0899bece-c97e-46f4-81c5-6fe5a29b47d7",
+        "markethashname": "USP-S | Cortex (Field-Tested)",
+        "marketname": "USP-S | Cortex (Field-Tested)",
+        "slug": "usp-s-cortex-field-tested",
+        "count": 1,
+        "assetid": "32886299594",
+        "classid": "5329566402",
+        "groupid": "0eabb22fbc87ec4fa2849d5b669eb541",
+        "instanceid": "480085569",
+        "nameid": 175966830,
+        "hashid": "ac0aa9c745854d6a9bbf52303de6e01d",
+        "itemgroup": "pistol",
+        "itemname": "cortex",
+        "itemtype": "usp-s",
+        "pricelatest": 1.92,
+        "pricelatestsell": 1.87,
+        "pricemix": 1.87,
+        "pricemedian": 1.95,
+        "pricesafe": 1.85,
+        "priceavg": 1.96,
+        "pricemin": 1.03,
+        "pricemax": 3.08,
+        "pricesafe24h": 1.93,
+        "pricesafe7d": 1.93,
+        "pricesafe30d": 2.08,
+        "pricesafe90d": 2.26,
+        "priceupdatedat": {
+            "date": "2024-01-29 16:41:13.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 1.27,
+        "pricereal24h": 1.37,
+        "pricereal7d": 1.37,
+        "pricereal30d": 1.32,
+        "pricereal90d": null,
+        "winloss": 32.09,
+        "trendpoint": 25,
+        "offervolume": 3094,
+        "hourstosold": 1,
+        "sold24h": 1261,
+        "sold7d": 7485,
+        "sold30d": 34419,
+        "sold90d": 131657,
+        "buyorderprice": 1.85,
+        "buyordermedian": 1.81,
+        "buyorderavg": 1.8,
+        "buyordervolume": 234950,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "d32ce6",
+        "quality": "normal",
+        "rarity": "classified",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j3Jq_um25V4dB8teXA54vwxle2qRA4YzyiI46SIA45N1rSqFS9l-jpgsDqv5WcmCAyvCMh5X3cnBKpwUYblsbKgI4",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_usp_silencer",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "USP-S"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_19",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Clutch Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Legendary_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Classified",
+                "color": "d32ce6"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            },
+            {
+                "category": "Tournament",
+                "internal_name": "Tournament21",
+                "localized_category_name": "Tournament",
+                "localized_tag_name": "BLAST.tv Paris 2023"
+            },
+            {
+                "category": "TournamentTeam",
+                "internal_name": "Team120",
+                "localized_category_name": "Team",
+                "localized_tag_name": "9INE"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with pink accents over a silver and black base.\n\n<i>Keep your head</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Clutch Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/nein_glitter.3c879cf9745714956d1c2e6308ce1b6b02f86567.png\"><br>Sticker: 9INE (Glitter) | Paris 2023</center></div>"
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7840421741749058383",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1518739209497",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A32886299594D7840421741749058383",
+        "inspectlinkparsed": {
+            "a": "32886299594",
+            "s": "76561198301205885",
+            "d": "840421741749058383"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "5cc5b9e9-0a06-48a4-a6c0-13bea0bb95b5",
+        "markethashname": "P2000 | Acid Etched (Minimal Wear)",
+        "marketname": "P2000 | Acid Etched (Minimal Wear)",
+        "slug": "p2000-acid-etched-minimal-wear",
+        "count": 1,
+        "assetid": "34386088350",
+        "classid": "3770669120",
+        "groupid": "49b8d00889fcf430b20c258f7a4829d6",
+        "instanceid": "188530139",
+        "nameid": 176118340,
+        "hashid": "5d8f1c7bd2c0bd8d78675b7ea649753e",
+        "itemgroup": "pistol",
+        "itemname": "acid etched",
+        "itemtype": "p2000",
+        "pricelatest": 0.75,
+        "pricelatestsell": 0.66,
+        "pricemix": 0.66,
+        "pricemedian": 0.77,
+        "pricesafe": 0.72,
+        "priceavg": 0.79,
+        "pricemin": 0.65,
+        "pricemax": 1.45,
+        "pricesafe24h": 0.77,
+        "pricesafe7d": 0.77,
+        "pricesafe30d": 0.79,
+        "pricesafe90d": 0.94,
+        "priceupdatedat": {
+            "date": "2024-01-29 17:27:16.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.5,
+        "pricereal24h": 0.53,
+        "pricereal7d": 0.54,
+        "pricereal30d": 0.56,
+        "pricereal90d": null,
+        "winloss": 24.24,
+        "trendpoint": 25,
+        "offervolume": 579,
+        "hourstosold": 1,
+        "sold24h": 163,
+        "sold7d": 785,
+        "sold30d": 3619,
+        "sold90d": 16755,
+        "buyorderprice": 0.72,
+        "buyordermedian": 0.69,
+        "buyorderavg": 0.69,
+        "buyordervolume": 23287,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "8847ff",
+        "quality": "normal",
+        "rarity": "restricted",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp9g-7J4bP5iUazrl1lMW-gI9CXIQZsNVvQrgK4x-vohcW4vZzJyHNhs3UjtHnfm0TlhkpEcKUx0pjVNx96",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_hkp2000",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "P2000"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_25",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Prisma 2 Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Mythical_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Restricted",
+                "color": "8847ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory1",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Minimal Wear"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Minimal Wear"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. A randomized multicolored pattern with a rare four-leaf clover has been applied.\n\n<i>Do you feel lucky?</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Prisma 2 Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D4758170268794677856",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1585695606239",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34386088350D4758170268794677856",
+        "inspectlinkparsed": {
+            "a": "34386088350",
+            "s": "76561198301205885",
+            "d": "758170268794677856"
+        },
+        "markettradablerestriction": 7,
+        "wear": "mw",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "58e45565-1645-48ca-9895-310b2cfc7a3f",
+        "markethashname": "StatTrak™ Desert Eagle | Oxide Blaze (Field-Tested)",
+        "marketname": "StatTrak™ Desert Eagle | Oxide Blaze (Field-Tested)",
+        "slug": "stattraktm-desert-eagle-oxide-blaze-field-tested",
+        "count": 1,
+        "assetid": "33437686405",
+        "classid": "5509265634",
+        "groupid": "1c66a76300fcbf759a3398f4a966862c",
+        "instanceid": "188530170",
+        "nameid": 175880333,
+        "hashid": "1ca4854fafefd499eca2f583aeab8516",
+        "itemgroup": "pistol",
+        "itemname": "oxide blaze",
+        "itemtype": "desert eagle",
+        "pricelatest": 0.66,
+        "pricelatestsell": 0.64,
+        "pricemix": 0.64,
+        "pricemedian": 0.7,
+        "pricesafe": 0.64,
+        "priceavg": 0.7,
+        "pricemin": 0.64,
+        "pricemax": 1.02,
+        "pricesafe24h": 0.69,
+        "pricesafe7d": 0.69,
+        "pricesafe30d": 0.78,
+        "pricesafe90d": 0.83,
+        "priceupdatedat": {
+            "date": "2024-01-29 17:06:03.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.47,
+        "pricereal24h": 0.52,
+        "pricereal7d": 0.54,
+        "pricereal30d": 0.53,
+        "pricereal90d": null,
+        "winloss": 26.56,
+        "trendpoint": 25,
+        "offervolume": 1103,
+        "hourstosold": 1,
+        "sold24h": 237,
+        "sold7d": 1349,
+        "sold30d": 7398,
+        "sold90d": 28747,
+        "buyorderprice": 0.62,
+        "buyordermedian": 0.6,
+        "buyorderavg": 0.6,
+        "buyordervolume": 18713,
+        "nametag": null,
+        "bordercolor": "CF6A32",
+        "color": "4b69ff",
+        "quality": "strange",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH_9mkgL-OlvD4NoTSmXlD58F0hNbM8Ij8nVmLpxIuNDztLITGdVQ9M1HU8wPtwLvpgcXp7pnBzCRjvCkitHzYlxS-1x9Obudt0-veFwsitg72Kg",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_deagle",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Desert Eagle"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_16",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Spectrum Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "strange",
+                "localized_category_name": "Category",
+                "localized_tag_name": "StatTrak™",
+                "color": "CF6A32"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            },
+            {
+                "category": "Tournament",
+                "internal_name": "Tournament21",
+                "localized_category_name": "Tournament",
+                "localized_tag_name": "BLAST.tv Paris 2023"
+            },
+            {
+                "category": "TournamentTeam",
+                "internal_name": "Team120",
+                "localized_category_name": "Team",
+                "localized_tag_name": "9INE"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.",
+                "color": "99ccff"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "This item tracks Confirmed Kills.",
+                "color": "CF6A32"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A custom paint job has been applied with a rust-colored base and white detailing.\n\n<i>Nothing a little sandpaper can't fix</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Spectrum Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/enfu_capsule/guru.742e561f4b693ca598f187d9d6825f274a5cd997.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/nein_glitter.3c879cf9745714956d1c2e6308ce1b6b02f86567.png\"><br>Sticker: The Guru, 9INE (Glitter) | Paris 2023</center></div>"
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16620192091458399813",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1489622407753",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A33437686405D16620192091458399813",
+        "inspectlinkparsed": {
+            "a": "33437686405",
+            "s": "76561198301205885",
+            "d": "6620192091458399813"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": true,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "b519bbcc-785e-47e0-9cdf-00467ddea353",
+        "markethashname": "Nova | Koi (Field-Tested)",
+        "marketname": "Nova | Koi (Field-Tested)",
+        "slug": "nova-koi-field-tested",
+        "count": 1,
+        "assetid": "34144712851",
+        "classid": "520026242",
+        "groupid": "0af3542679883b27f5bb1900f5aff515",
+        "instanceid": "188530139",
+        "nameid": 14962914,
+        "hashid": "ce4129c4b75a7e8e7f0d09e634aea10a",
+        "itemgroup": "shotgun",
+        "itemname": "koi",
+        "itemtype": "nova",
+        "pricelatest": 0.62,
+        "pricelatestsell": 0.6,
+        "pricemix": 0.6,
+        "pricemedian": 0.64,
+        "pricesafe": 0.6,
+        "priceavg": 0.64,
+        "pricemin": 0.55,
+        "pricemax": 0.99,
+        "pricesafe24h": 0.65,
+        "pricesafe7d": 0.65,
+        "pricesafe30d": 0.65,
+        "pricesafe90d": 0.76,
+        "priceupdatedat": {
+            "date": "2024-01-29 18:33:01.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.44,
+        "pricereal24h": 0.44,
+        "pricereal7d": 0.45,
+        "pricereal30d": 0.51,
+        "pricereal90d": null,
+        "winloss": 26.67,
+        "trendpoint": 15,
+        "offervolume": 137,
+        "hourstosold": 1,
+        "sold24h": 27,
+        "sold7d": 174,
+        "sold30d": 983,
+        "sold90d": 3797,
+        "buyorderprice": 0.59,
+        "buyordermedian": 0.57,
+        "buyorderavg": 0.55,
+        "buyordervolume": 5001,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "8847ff",
+        "quality": "normal",
+        "rarity": "restricted",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09e5nb-GkvP9JrbummpD78A_jriZo96g0Ae2rxVkMWj3JYCTdlc-aAzZ-FTok-fsg5XuvpjAznZi6T5iuyi6fwMUbw",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Shotgun",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Shotgun"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_nova",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Nova"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_4",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Breakout Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Mythical_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Restricted",
+                "color": "8847ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been custom painted with variegated koi scales."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Breakout Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D615551331319959057",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1404255602223",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34144712851D615551331319959057",
+        "inspectlinkparsed": {
+            "a": "34144712851",
+            "s": "76561198301205885",
+            "d": "15551331319959057"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "1e2b4765-8d8e-4277-9844-5dc5f0b1ce55",
+        "markethashname": "Desert Eagle | Urban Rubble (Factory New)",
+        "marketname": "Desert Eagle | Urban Rubble (Factory New)",
+        "slug": "desert-eagle-urban-rubble-factory-new",
+        "count": 1,
+        "assetid": "34777059054",
+        "classid": "310776735",
+        "groupid": "ae501abcbbcd7844a355ad160ffabb92",
+        "instanceid": "302028390",
+        "nameid": 2384092,
+        "hashid": "31c656c8cb3cae1c59460042639ce1cb",
+        "itemgroup": "pistol",
+        "itemname": "urban rubble",
+        "itemtype": "desert eagle",
+        "pricelatest": 0.59,
+        "pricelatestsell": 0.58,
+        "pricemix": 0.58,
+        "pricemedian": 0.61,
+        "pricesafe": 0.56,
+        "priceavg": 0.61,
+        "pricemin": 0.55,
+        "pricemax": 1.42,
+        "pricesafe24h": 0.59,
+        "pricesafe7d": 0.59,
+        "pricesafe30d": 0.66,
+        "pricesafe90d": 0.88,
+        "priceupdatedat": {
+            "date": "2024-01-29 12:57:19.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.42,
+        "pricereal24h": 0.43,
+        "pricereal7d": 0.48,
+        "pricereal30d": 0.48,
+        "pricereal90d": null,
+        "winloss": 27.59,
+        "trendpoint": 25,
+        "offervolume": 1448,
+        "hourstosold": 1,
+        "sold24h": 317,
+        "sold7d": 1905,
+        "sold30d": 9628,
+        "sold90d": 36386,
+        "buyorderprice": 0.55,
+        "buyordermedian": 0.53,
+        "buyorderavg": 0.53,
+        "buyordervolume": 15807,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTitD_tW1lY2EqOLmMbrfqWdY781lteXA54vwxlXt_EptN2nzIICXcgBoaVDQ8lTow7rvjZO86c7MznUwvHYn5nqMmxKpwUYbYpGsfXk",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_deagle",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Desert Eagle"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_train",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Train Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory0",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Factory New"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Factory New"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted using a VariCamo patterned hydrographic.\n\n<i>Rebuilding only comes in the wake of destruction</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Train Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5380230258105411301",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1385596804323",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34777059054D5380230258105411301",
+        "inspectlinkparsed": {
+            "a": "34777059054",
+            "s": "76561198301205885",
+            "d": "380230258105411301"
+        },
+        "markettradablerestriction": 7,
+        "wear": "fn",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "30d98c2b-4268-46a2-966a-3d1cb4c90e78",
+        "markethashname": "StatTrak™ Glock-18 | Bunsen Burner (Field-Tested)",
+        "marketname": "StatTrak™ Glock-18 | Bunsen Burner (Field-Tested)",
+        "slug": "stattraktm-glock-18-bunsen-burner-field-tested",
+        "count": 1,
+        "assetid": "20546554460",
+        "classid": "3747571294",
+        "groupid": "5de2a1ccbb7c6763540cee139eccddbf",
+        "instanceid": "188709807",
+        "nameid": 49359037,
+        "hashid": "e242c4e6d699e1e1c6178dfbaebd0651",
+        "itemgroup": "pistol",
+        "itemname": "bunsen burner",
+        "itemtype": "glock-18",
+        "pricelatest": 0.54,
+        "pricelatestsell": 0.5,
+        "pricemix": 0.5,
+        "pricemedian": 0.57,
+        "pricesafe": 0.5,
+        "priceavg": 0.57,
+        "pricemin": 0.43,
+        "pricemax": 1.32,
+        "pricesafe24h": 0.54,
+        "pricesafe7d": 0.54,
+        "pricesafe30d": 0.57,
+        "pricesafe90d": 0.89,
+        "priceupdatedat": {
+            "date": "2024-01-29 13:09:01.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.35,
+        "pricereal24h": 0.38,
+        "pricereal7d": 0.39,
+        "pricereal30d": 0.48,
+        "pricereal90d": null,
+        "winloss": 30,
+        "trendpoint": 15,
+        "offervolume": 1319,
+        "hourstosold": 1,
+        "sold24h": 133,
+        "sold7d": 835,
+        "sold30d": 4164,
+        "sold90d": 20320,
+        "buyorderprice": 0.5,
+        "buyordermedian": 0.48,
+        "buyorderavg": 0.47,
+        "buyordervolume": 13260,
+        "nametag": null,
+        "bordercolor": "CF6A32",
+        "color": "4b69ff",
+        "quality": "strange",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3djFN79fnzL-Nm_b5NqjulGdE7fp8j-3I4IHKhFWmrBZyY23zctKQdFU6Zg2EqwC7xe680cO8uZufyCAx63Eg7X_emUfliUtEb_sv26ID4uMQqQ",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_glock",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Glock-18"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_8",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Falchion Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "strange",
+                "localized_category_name": "Category",
+                "localized_tag_name": "StatTrak™",
+                "color": "CF6A32"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.",
+                "color": "99ccff"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "StatTrak™ Confirmed Kills: 431",
+                "color": "CF6A32"
+            },
+            {
+                "type": "html",
+                "value": "*Stats for this item will reset when used in Steam Trading or Community Market",
+                "color": "ff4040"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been given a blue patina which has been polished off parts of the slide to result in a graphic flame design.\n\n<i>KNOCK KNOCK</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Falchion Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/shattered_web/mastermind_holo.6838053f2cdeff8bd0d27fe4e7e0d8baac2caaa2.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/shattered_web/terrorist_tech_m9.e58f96eac3173f09de42ea00ea74d2a5dc814be0.png\"><br>Sticker: Mastermind (Holo), Terrorist-Tech</center></div>"
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7803731012359466956",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1432681201919",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A20546554460D7803731012359466956",
+        "inspectlinkparsed": {
+            "a": "20546554460",
+            "s": "76561198301205885",
+            "d": "803731012359466956"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": true,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "64021467-748f-47c8-81d7-21991a094fb3",
+        "markethashname": "Galil AR | Tuxedo (Field-Tested)",
+        "marketname": "Galil AR | Tuxedo (Field-Tested)",
+        "slug": "galil-ar-tuxedo-field-tested",
+        "count": 1,
+        "assetid": "34144866798",
+        "classid": "469446099",
+        "groupid": "a3e2aeeca1c33855c1c9a0a02a2d0bbd",
+        "instanceid": "302028390",
+        "nameid": 8988639,
+        "hashid": "3840a8ba3f6840daf722b404653edfcf",
+        "itemgroup": "rifle",
+        "itemname": "tuxedo",
+        "itemtype": "galil ar",
+        "pricelatest": 0.4,
+        "pricelatestsell": 0.38,
+        "pricemix": 0.38,
+        "pricemedian": 0.42,
+        "pricesafe": 0.4,
+        "priceavg": 0.42,
+        "pricemin": 0.38,
+        "pricemax": 1.23,
+        "pricesafe24h": 0.4,
+        "pricesafe7d": 0.4,
+        "pricesafe30d": 0.49,
+        "pricesafe90d": 0.61,
+        "priceupdatedat": {
+            "date": "2024-01-29 15:19:19.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.28,
+        "pricereal24h": 0.28,
+        "pricereal7d": 0.32,
+        "pricereal30d": 0.33,
+        "pricereal90d": null,
+        "winloss": 26.32,
+        "trendpoint": 15,
+        "offervolume": 2436,
+        "hourstosold": 1,
+        "sold24h": 430,
+        "sold7d": 2717,
+        "sold30d": 13137,
+        "sold90d": 48456,
+        "buyorderprice": 0.39,
+        "buyordermedian": 0.37,
+        "buyorderavg": 0.37,
+        "buyordervolume": 17497,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q42Ok_7hPoTdl3lW7Yt02OyWpd6s21bm_0JuazqlcIbBdgY9MljRqAC3weq7hpTo6pTOmyZrpGB8skKORPUa",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Rifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_galilar",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Galil AR"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_bank",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Bank Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has individual parts spray-painted solid colors in a black and white color scheme.\n\n<i>For when combat is a black tie affair</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Bank Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7074205039908909837",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1398985205156",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34144866798D7074205039908909837",
+        "inspectlinkparsed": {
+            "a": "34144866798",
+            "s": "76561198301205885",
+            "d": "074205039908909837"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "f1925f90-62ef-42d9-bd0d-2066c275f466",
+        "markethashname": "SSG 08 | Fever Dream (Field-Tested)",
+        "marketname": "SSG 08 | Fever Dream (Field-Tested)",
+        "slug": "ssg-08-fever-dream-field-tested",
+        "count": 1,
+        "assetid": "20546554995",
+        "classid": "3770669160",
+        "groupid": "0731e9467759a34be8971f652faddd37",
+        "instanceid": "188530139",
+        "nameid": 176118307,
+        "hashid": "e1bd7f5c17c35dbe2ae5d3c07ffa01f4",
+        "itemgroup": "sniper rifle",
+        "itemname": "fever dream",
+        "itemtype": "ssg 08",
+        "pricelatest": 0.35,
+        "pricelatestsell": 0.34,
+        "pricemix": 0.34,
+        "pricemedian": 0.38,
+        "pricesafe": 0.34,
+        "priceavg": 0.38,
+        "pricemin": 0.34,
+        "pricemax": 0.56,
+        "pricesafe24h": 0.36,
+        "pricesafe7d": 0.36,
+        "pricesafe30d": 0.38,
+        "pricesafe90d": 0.41,
+        "priceupdatedat": {
+            "date": "2024-01-29 16:43:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.25,
+        "pricereal24h": 0.25,
+        "pricereal7d": 0.26,
+        "pricereal30d": 0.23,
+        "pricereal90d": null,
+        "winloss": 26.47,
+        "trendpoint": 25,
+        "offervolume": 2402,
+        "hourstosold": 1,
+        "sold24h": 766,
+        "sold7d": 4505,
+        "sold30d": 21938,
+        "sold90d": 96126,
+        "buyorderprice": 0.34,
+        "buyordermedian": 0.31,
+        "buyorderavg": 0.3,
+        "buyordervolume": 63552,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "8847ff",
+        "quality": "normal",
+        "rarity": "restricted",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5cB1g_zMyoD0mlOx5UE5Z2mlLdOSJ1c-N17T8wS6yO25gpO778nIyyZq6SEk7XmPnxDhhxlSLrs4wmGDtQ0",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_SniperRifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Sniper Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_ssg08",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "SSG 08"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_25",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Prisma 2 Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Mythical_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Restricted",
+                "color": "8847ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been custom painted with manic pink, blue, and purple drawings on a black base.\n\n<i>H@@HH@H@H@HA!!</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Prisma 2 Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D14700453293844625024",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1585695607373",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A20546554995D14700453293844625024",
+        "inspectlinkparsed": {
+            "a": "20546554995",
+            "s": "76561198301205885",
+            "d": "4700453293844625024"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "b6a6b033-3161-493d-aaf6-d09322048b4c",
+        "markethashname": "Fracture Case",
+        "marketname": "Fracture Case",
+        "slug": "fracture-case",
+        "count": 1,
+        "assetid": "34777059053",
+        "classid": "3946324730",
+        "groupid": "ed86ee12052cbd51480a413b72645fd0",
+        "instanceid": "302028390",
+        "nameid": 176185874,
+        "hashid": "c4cd8d431770c8af87a9e810e9896325",
+        "itemgroup": "container",
+        "itemname": "fracture case",
+        "itemtype": "the fracture collection",
+        "pricelatest": 0.32,
+        "pricelatestsell": 0.33,
+        "pricemix": 0.33,
+        "pricemedian": 0.35,
+        "pricesafe": 0.33,
+        "priceavg": 0.35,
+        "pricemin": 0.33,
+        "pricemax": 0.86,
+        "pricesafe24h": 0.34,
+        "pricesafe7d": 0.34,
+        "pricesafe30d": 0.51,
+        "pricesafe90d": 0.61,
+        "priceupdatedat": {
+            "date": "2024-01-29 16:00:15.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.24,
+        "pricereal24h": 0.23,
+        "pricereal7d": 0.3,
+        "pricereal30d": 0.35,
+        "pricereal90d": null,
+        "winloss": 27.27,
+        "trendpoint": 25,
+        "offervolume": 558581,
+        "hourstosold": 1,
+        "sold24h": 121076,
+        "sold7d": 694668,
+        "sold30d": 3148962,
+        "sold90d": 13505697,
+        "buyorderprice": 0.31,
+        "buyordermedian": 0.29,
+        "buyorderavg": 0.28,
+        "buyordervolume": 6478455,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "b0c3d9",
+        "quality": "normal",
+        "rarity": "base grade",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_WeaponCase",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Container"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_26",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Fracture Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Base Grade",
+                "color": "b0c3d9"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Container Series #307",
+                "color": "99ccff"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Contains one of the following:"
+            },
+            {
+                "type": "html",
+                "value": "Negev | Ultralight",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "P2000 | Gnarled",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "SG 553 | Ol' Rusty",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "SSG 08 | Mainframe 001",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "P250 | Cassette",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "P90 | Freight",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "PP-Bizon | Runic",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "MAG-7 | Monster Call",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "Tec-9 | Brother",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "MAC-10 | Allure",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "Galil AR | Connexion",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "MP5-SD | Kitbash",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "M4A4 | Tooth Fairy",
+                "color": "d32ce6"
+            },
+            {
+                "type": "html",
+                "value": "Glock-18 | Vogue",
+                "color": "d32ce6"
+            },
+            {
+                "type": "html",
+                "value": "XM1014 | Entombed",
+                "color": "d32ce6"
+            },
+            {
+                "type": "html",
+                "value": "Desert Eagle | Printstream",
+                "color": "eb4b4b"
+            },
+            {
+                "type": "html",
+                "value": "AK-47 | Legion of Anubis",
+                "color": "eb4b4b"
+            },
+            {
+                "type": "html",
+                "value": "or an Exceedingly Rare Special Item!",
+                "color": "ffd700"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "",
+                "color": "00a000"
+            }
+        ],
+        "actions": null,
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1596754807000",
+        "inspectlink": null,
+        "inspectlinkparsed": null,
+        "markettradablerestriction": 7,
+        "wear": null,
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "7fe932bd-84ed-41fb-ac0a-3a8771904ee2",
+        "markethashname": "Desert Eagle | Blue Ply (Minimal Wear)",
+        "marketname": "Desert Eagle | Blue Ply (Minimal Wear)",
+        "slug": "desert-eagle-blue-ply-minimal-wear",
+        "count": 1,
+        "assetid": "34386084347",
+        "classid": "3770669090",
+        "groupid": "87f4accce7a4d529ca896dca29163f73",
+        "instanceid": "188530139",
+        "nameid": 176118308,
+        "hashid": "d75b52df7ed1f1e579c34143c5ebf22f",
+        "itemgroup": "pistol",
+        "itemname": "blue ply",
+        "itemtype": "desert eagle",
+        "pricelatest": 0.21,
+        "pricelatestsell": 0.21,
+        "pricemix": 0.21,
+        "pricemedian": 0.24,
+        "pricesafe": 0.2,
+        "priceavg": 0.24,
+        "pricemin": 0.18,
+        "pricemax": 0.35,
+        "pricesafe24h": 0.2,
+        "pricesafe7d": 0.2,
+        "pricesafe30d": 0.22,
+        "pricesafe90d": 0.28,
+        "priceupdatedat": {
+            "date": "2024-01-29 18:31:15.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.14,
+        "pricereal24h": 0.15,
+        "pricereal7d": 0.14,
+        "pricereal30d": 0.15,
+        "pricereal90d": null,
+        "winloss": 33.33,
+        "trendpoint": 40,
+        "offervolume": 3020,
+        "hourstosold": 1,
+        "sold24h": 780,
+        "sold7d": 3626,
+        "sold30d": 16527,
+        "sold90d": 70625,
+        "buyorderprice": 0.2,
+        "buyordermedian": 0.18,
+        "buyorderavg": 0.17,
+        "buyordervolume": 104839,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWdY781lteXA54vwxg3k-xJvY277I9LBdVA6N1vS_lK7kr3qgMO5usmaynZm7icq5S2MzkCpwUYbCa_cApM",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_deagle",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Desert Eagle"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_25",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Prisma 2 Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory1",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Minimal Wear"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Minimal Wear"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been laminated and filled with an ash-colored grip and blue slide.\n\n<i>WARNING: This is a replica and has not been tested with live ammunition</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Prisma 2 Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9819114257288716429",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1585695608178",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34386084347D9819114257288716429",
+        "inspectlinkparsed": {
+            "a": "34386084347",
+            "s": "76561198301205885",
+            "d": "819114257288716429"
+        },
+        "markettradablerestriction": 7,
+        "wear": "mw",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "5c5889c5-28d5-493d-b2fb-5af818551d76",
+        "markethashname": "SCAR-20 | Assault (Minimal Wear)",
+        "marketname": "SCAR-20 | Assault (Minimal Wear)",
+        "slug": "scar-20-assault-minimal-wear",
+        "count": 1,
+        "assetid": "18042716864",
+        "classid": "3574239103",
+        "groupid": "6fd55c0480f6912b273a5fcc0bc0cf76",
+        "instanceid": "188530139",
+        "nameid": 176091784,
+        "hashid": "761e77073e9f69b79b6b95c4918cced3",
+        "itemgroup": "sniper rifle",
+        "itemname": "assault",
+        "itemtype": "scar-20",
+        "pricelatest": 0.16,
+        "pricelatestsell": 0.15,
+        "pricemix": 0.15,
+        "pricemedian": 0.18,
+        "pricesafe": 0.13,
+        "priceavg": 0.17,
+        "pricemin": 0.05,
+        "pricemax": 0.3,
+        "pricesafe24h": 0.13,
+        "pricesafe7d": 0.13,
+        "pricesafe30d": 0.14,
+        "pricesafe90d": 0.14,
+        "priceupdatedat": {
+            "date": "2024-01-29 17:54:09.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.08,
+        "pricereal24h": 0.08,
+        "pricereal7d": 0.1,
+        "pricereal30d": 0.1,
+        "pricereal90d": null,
+        "winloss": 46.67,
+        "trendpoint": 75,
+        "offervolume": 330,
+        "hourstosold": 1,
+        "sold24h": 89,
+        "sold7d": 477,
+        "sold30d": 2420,
+        "sold90d": 11848,
+        "buyorderprice": 0.13,
+        "buyordermedian": 0.11,
+        "buyorderavg": 0.11,
+        "buyordervolume": 36843,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6JlZOYluL4J4Tdn2xZ_Pp9i_vG8MKg31W180plZGCnctfEIAU9ZQqC-QS3wL3vjMC5uJ_PwCdqsnN04XiMgVXp1qjN3NFX",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_SniperRifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Sniper Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_scar20",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "SCAR-20"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_24",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The CS20 Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory1",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Minimal Wear"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Minimal Wear"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. The logo of a research facility has been hand painted in white over a blue base.\n\n<i>Also available in red</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The CS20 Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16333653032590959068",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1571353209595",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A18042716864D16333653032590959068",
+        "inspectlinkparsed": {
+            "a": "18042716864",
+            "s": "76561198301205885",
+            "d": "6333653032590959068"
+        },
+        "markettradablerestriction": 7,
+        "wear": "mw",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "0194e03c-b426-4376-9165-2caab4193cdc",
+        "markethashname": "StatTrak™ SSG 08 | Mainframe 001 (Field-Tested)",
+        "marketname": "StatTrak™ SSG 08 | Mainframe 001 (Field-Tested)",
+        "slug": "stattraktm-ssg-08-mainframe-001-field-tested",
+        "count": 1,
+        "assetid": "34144891450",
+        "classid": "3955286455",
+        "groupid": "8db875c5185bd22de43ff91bf5cc4357",
+        "instanceid": "188530170",
+        "nameid": 176185893,
+        "hashid": "9cefa9c2437b7792cac434f7a870f139",
+        "itemgroup": "sniper rifle",
+        "itemname": "mainframe 001",
+        "itemtype": "ssg 08",
+        "pricelatest": 0.14,
+        "pricelatestsell": 0.13,
+        "pricemix": 0.13,
+        "pricemedian": 0.16,
+        "pricesafe": 0.13,
+        "priceavg": 0.16,
+        "pricemin": 0.11,
+        "pricemax": 0.28,
+        "pricesafe24h": 0.14,
+        "pricesafe7d": 0.14,
+        "pricesafe30d": 0.14,
+        "pricesafe90d": 0.18,
+        "priceupdatedat": {
+            "date": "2024-01-29 14:20:12.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.09,
+        "pricereal24h": 0.09,
+        "pricereal7d": 0.09,
+        "pricereal30d": 0.09,
+        "pricereal90d": null,
+        "winloss": 30.77,
+        "trendpoint": 15,
+        "offervolume": 3559,
+        "hourstosold": 1,
+        "sold24h": 399,
+        "sold7d": 2600,
+        "sold30d": 13127,
+        "sold90d": 55276,
+        "buyorderprice": 0.13,
+        "buyordermedian": 0.11,
+        "buyorderavg": 0.11,
+        "buyordervolume": 25945,
+        "nametag": null,
+        "bordercolor": "CF6A32",
+        "color": "4b69ff",
+        "quality": "strange",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmYGCmfHmMrbUqWZU7Mxkh9bN9J7yjRrn8kVqa2D1ItSWcFU3YgmDq1Tol-65h5O975vAmnBh6SV0t3_UnRWzn1gSORZ9emwI",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_SniperRifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Sniper Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_ssg08",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "SSG 08"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_26",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Fracture Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "strange",
+                "localized_category_name": "Category",
+                "localized_tag_name": "StatTrak™",
+                "color": "CF6A32"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner.",
+                "color": "99ccff"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "This item tracks Confirmed Kills.",
+                "color": "CF6A32"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A high tech custom paint job of blues and purples has been applied.\n\n<i>What secrets does _001 hold?</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Fracture Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7785785093925296872",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1596754803452",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34144891450D7785785093925296872",
+        "inspectlinkparsed": {
+            "a": "34144891450",
+            "s": "76561198301205885",
+            "d": "785785093925296872"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": true,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "450c28ca-1e63-44b8-8779-720f18116ece",
+        "markethashname": "CZ75-Auto | Distressed (Minimal Wear)",
+        "marketname": "CZ75-Auto | Distressed (Minimal Wear)",
+        "slug": "cz75-auto-distressed-minimal-wear",
+        "count": 1,
+        "assetid": "34386094386",
+        "classid": "3770686426",
+        "groupid": "c381c5b2700a6f90d18c84c6d3c21be1",
+        "instanceid": "188530139",
+        "nameid": 176118304,
+        "hashid": "7cf11d0b14063b1668b92808e1ba5b1c",
+        "itemgroup": "pistol",
+        "itemname": "distressed",
+        "itemtype": "cz75-auto",
+        "pricelatest": 0.11,
+        "pricelatestsell": 0.07,
+        "pricemix": 0.07,
+        "pricemedian": 0.13,
+        "pricesafe": 0.1,
+        "priceavg": 0.12,
+        "pricemin": 0.07,
+        "pricemax": 0.25,
+        "pricesafe24h": 0.09,
+        "pricesafe7d": 0.09,
+        "pricesafe30d": 0.1,
+        "pricesafe90d": 0.11,
+        "priceupdatedat": {
+            "date": "2024-01-29 15:41:01.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.06,
+        "pricereal24h": 0.06,
+        "pricereal7d": 0.07,
+        "pricereal30d": 0.07,
+        "pricereal90d": null,
+        "winloss": 14.29,
+        "trendpoint": 55,
+        "offervolume": 892,
+        "hourstosold": 1,
+        "sold24h": 193,
+        "sold7d": 841,
+        "sold30d": 4232,
+        "sold90d": 22465,
+        "buyorderprice": 0.1,
+        "buyordermedian": 0.08,
+        "buyorderavg": 0.07,
+        "buyordervolume": 58589,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTdn2xZ_Pp9i_vG8MKnjgzm80U9ajqiJoWUcVU8YgvWrljvlea7hMW1uJvMySc1siUktnzagVXp1sHp_Hd3",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_cz75a",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "CZ75-Auto"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_25",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Prisma 2 Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory1",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Minimal Wear"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Minimal Wear"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. The copper colored ceramic finish is wearing away with use.\n\n<i>Better with age</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Prisma 2 Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7695117000780403091",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1585695608611",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34386094386D7695117000780403091",
+        "inspectlinkparsed": {
+            "a": "34386094386",
+            "s": "76561198301205885",
+            "d": "695117000780403091"
+        },
+        "markettradablerestriction": 7,
+        "wear": "mw",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "1f801f00-e2bf-4002-a353-50d6757bc7d5",
+        "markethashname": "CZ75-Auto | Circaetus (Field-Tested)",
+        "marketname": "CZ75-Auto | Circaetus (Field-Tested)",
+        "slug": "cz75-auto-circaetus-field-tested",
+        "count": 1,
+        "assetid": "34144911475",
+        "classid": "4428756050",
+        "groupid": "e62e039059650c21b52e9a384eef36ea",
+        "instanceid": "188530139",
+        "nameid": 176240927,
+        "hashid": "a0fba923fb88620a125ca404bb5dad31",
+        "itemgroup": "pistol",
+        "itemname": "circaetus",
+        "itemtype": "cz75-auto",
+        "pricelatest": 0.1,
+        "pricelatestsell": 0.08,
+        "pricemix": 0.08,
+        "pricemedian": 0.12,
+        "pricesafe": 0.08,
+        "priceavg": 0.11,
+        "pricemin": 0.07,
+        "pricemax": 0.13,
+        "pricesafe24h": 0.08,
+        "pricesafe7d": 0.08,
+        "pricesafe30d": 0.08,
+        "pricesafe90d": 0.09,
+        "priceupdatedat": {
+            "date": "2024-01-29 18:37:01.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.05,
+        "pricereal24h": 0.05,
+        "pricereal7d": 0.05,
+        "pricereal30d": 0.04,
+        "pricereal90d": null,
+        "winloss": 37.5,
+        "trendpoint": 65,
+        "offervolume": 5032,
+        "hourstosold": 1,
+        "sold24h": 982,
+        "sold7d": 5121,
+        "sold30d": 26659,
+        "sold90d": 132159,
+        "buyorderprice": 0.08,
+        "buyordermedian": 0.06,
+        "buyorderavg": 0.06,
+        "buyordervolume": 126744,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOhnImZm-D9Pb_um25V4dB8teXA54vwxgPl8xc4Mjz1ctKcIFI8YljT_gXqkO3t0JDvvcuYmnFjvHJz7CyPlhKpwUYbEi_YVhM",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_cz75a",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "CZ75-Auto"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_28",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Snakebite Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. A bird of prey carrying a snake has been custom painted on this CZ75.\n\n<i>A snake eater, minus the catchy theme song</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Snakebite Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16181130717488575827",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1619996409907",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34144911475D16181130717488575827",
+        "inspectlinkparsed": {
+            "a": "34144911475",
+            "s": "76561198301205885",
+            "d": "6181130717488575827"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "c64242e4-4a1b-41bf-9a3e-cd6b3eca53d8",
+        "markethashname": "UMP-45 | Oscillator (Field-Tested)",
+        "marketname": "UMP-45 | Oscillator (Field-Tested)",
+        "slug": "ump-45-oscillator-field-tested",
+        "count": 1,
+        "assetid": "34386110592",
+        "classid": "4428756520",
+        "groupid": "10cc0c6f8c0c7375e6051f586ee293b4",
+        "instanceid": "188530139",
+        "nameid": 176240937,
+        "hashid": "f91da40277f40ca86f14681c48ea5ebc",
+        "itemgroup": "smg",
+        "itemname": "oscillator",
+        "itemtype": "ump-45",
+        "pricelatest": 0.09,
+        "pricelatestsell": 0.07,
+        "pricemix": 0.07,
+        "pricemedian": 0.11,
+        "pricesafe": 0.08,
+        "priceavg": 0.11,
+        "pricemin": 0.07,
+        "pricemax": 0.12,
+        "pricesafe24h": 0.08,
+        "pricesafe7d": 0.08,
+        "pricesafe30d": 0.08,
+        "pricesafe90d": 0.09,
+        "priceupdatedat": {
+            "date": "2024-01-29 15:06:02.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.05,
+        "pricereal24h": 0.05,
+        "pricereal7d": 0.05,
+        "pricereal30d": 0.05,
+        "pricereal90d": null,
+        "winloss": 28.57,
+        "trendpoint": 55,
+        "offervolume": 3474,
+        "hourstosold": 1,
+        "sold24h": 910,
+        "sold7d": 5207,
+        "sold30d": 25180,
+        "sold90d": 122941,
+        "buyorderprice": 0.08,
+        "buyordermedian": 0.06,
+        "buyorderavg": 0.06,
+        "buyordervolume": 129126,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0v73ZDBSuImJkYyOlOPmPKzQgG5u5cB1g_zMyoD0mlOx5URoNW_0JNKSJFM2MAzX_FHow--9jZa0tMuYwXYwvSAjs32PmRa2hUtSLrs44lwYtR4",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_SMG",
+                "localized_category_name": "Type",
+                "localized_tag_name": "SMG"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_ump45",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "UMP-45"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_28",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Snakebite Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A randomized pattern in orange, black, and grey has been applied.\n\n<i>Everyone has a breaking point; where's yours?</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Snakebite Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D10092052607597616650",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1619996402737",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34386110592D10092052607597616650",
+        "inspectlinkparsed": {
+            "a": "34386110592",
+            "s": "76561198301205885",
+            "d": "0092052607597616650"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "f0e48864-813a-497d-ac4b-369a0d95f5ae",
+        "markethashname": "Galil AR | Cold Fusion (Minimal Wear)",
+        "marketname": "Galil AR | Cold Fusion (Minimal Wear)",
+        "slug": "galil-ar-cold-fusion-minimal-wear",
+        "count": 1,
+        "assetid": "33047269333",
+        "classid": "3035578346",
+        "groupid": "007586e38fa621116459eced28c2a156",
+        "instanceid": "302028390",
+        "nameid": 176012402,
+        "hashid": "c173c75f100467237f2134a3c8dffffc",
+        "itemgroup": "rifle",
+        "itemname": "cold fusion",
+        "itemtype": "galil ar",
+        "pricelatest": 0.09,
+        "pricelatestsell": 0.07,
+        "pricemix": 0.07,
+        "pricemedian": 0.11,
+        "pricesafe": 0.07,
+        "priceavg": 0.1,
+        "pricemin": 0.06,
+        "pricemax": 0.2,
+        "pricesafe24h": 0.07,
+        "pricesafe7d": 0.07,
+        "pricesafe30d": 0.08,
+        "pricesafe90d": 0.1,
+        "priceupdatedat": {
+            "date": "2024-01-29 12:59:14.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.04,
+        "pricereal24h": 0.04,
+        "pricereal7d": 0.05,
+        "pricereal30d": 0.06,
+        "pricereal90d": null,
+        "winloss": 42.86,
+        "trendpoint": 45,
+        "offervolume": 7651,
+        "hourstosold": 1,
+        "sold24h": 999,
+        "sold7d": 5495,
+        "sold30d": 26215,
+        "sold90d": 97625,
+        "buyorderprice": 0.07,
+        "buyordermedian": 0.05,
+        "buyorderavg": 0.06,
+        "buyordervolume": 33172,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "5e98d9",
+        "quality": "normal",
+        "rarity": "industrial grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteXI8oTht1i1uRQ5fW6iLdCddg85MF2F-1a6yeu8h8Lv6J3AnCFhuXRz5n_azUa00hhKPeZxxavJ-8H9S2k",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Rifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_galilar",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Galil AR"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_nuke_2",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The 2018 Nuke Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Uncommon_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Industrial Grade",
+                "color": "5e98d9"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory1",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Minimal Wear"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Minimal Wear"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A toxic, pale blue hydrographic pattern has been applied.\n\n<i>Hypotheses are never proven</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The 2018 Nuke Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D14314375490226680655",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1538607609504",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A33047269333D14314375490226680655",
+        "inspectlinkparsed": {
+            "a": "33047269333",
+            "s": "76561198301205885",
+            "d": "4314375490226680655"
+        },
+        "markettradablerestriction": 7,
+        "wear": "mw",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "c4a914d8-9f43-4062-a77f-3e3c30c1f7f5",
+        "markethashname": "Negev | Drop Me (Battle-Scarred)",
+        "marketname": "Negev | Drop Me (Battle-Scarred)",
+        "slug": "negev-drop-me-battle-scarred",
+        "count": 1,
+        "assetid": "34604574275",
+        "classid": "4910475891",
+        "groupid": "bf846b4105842f858f7886b26ebdfd16",
+        "instanceid": "188530139",
+        "nameid": 176321180,
+        "hashid": "65b93c50e31365bc4f68302aae1554db",
+        "itemgroup": "machinegun",
+        "itemname": "drop me",
+        "itemtype": "negev",
+        "pricelatest": 0.07,
+        "pricelatestsell": 0.05,
+        "pricemix": 0.05,
+        "pricemedian": 0.09,
+        "pricesafe": 0.06,
+        "priceavg": 0.09,
+        "pricemin": 0.04,
+        "pricemax": 0.08,
+        "pricesafe24h": 0.05,
+        "pricesafe7d": 0.05,
+        "pricesafe30d": 0.05,
+        "pricesafe90d": 0.06,
+        "priceupdatedat": {
+            "date": "2024-01-29 13:07:01.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.03,
+        "pricereal24h": 0.04,
+        "pricereal7d": 0.03,
+        "pricereal30d": 0.03,
+        "pricereal90d": null,
+        "winloss": 40,
+        "trendpoint": 65,
+        "offervolume": 5492,
+        "hourstosold": 1,
+        "sold24h": 248,
+        "sold7d": 2156,
+        "sold30d": 11233,
+        "sold90d": 53246,
+        "buyorderprice": 0.06,
+        "buyordermedian": 0.05,
+        "buyorderavg": 0.04,
+        "buyordervolume": 65027,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJl4yOluXLILDIqWNU6dNoteXA54vwxg22_UttZm-lJ4-Qe1c7MF-E81a8wO3phJftu5XAz3Zn7iR253zYnhKpwUYb350XmlU",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Machinegun",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Machinegun"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_negev",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Negev"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_31",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Recoil Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory4",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Battle-Scarred"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Battle-Scarred"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A stop sign has been custom painted near the assault grip over a mostly brown base.\n\n<i>If the stop sign doesn't convince you the stream of bullets will</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Recoil Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2624519432068496832",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1656705605065",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34604574275D2624519432068496832",
+        "inspectlinkparsed": {
+            "a": "34604574275",
+            "s": "76561198301205885",
+            "d": "624519432068496832"
+        },
+        "markettradablerestriction": 7,
+        "wear": "bs",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "e7fdc329-ddd3-4df8-ad71-186d8725836e",
+        "markethashname": "MP5-SD | Necro Jr. (Field-Tested)",
+        "marketname": "MP5-SD | Necro Jr. (Field-Tested)",
+        "slug": "mp5-sd-necro-jr-field-tested",
+        "count": 1,
+        "assetid": "34026280826",
+        "classid": "4726068696",
+        "groupid": "02545363e5888e8e07e7a6953032f004",
+        "instanceid": "188530139",
+        "nameid": 176288476,
+        "hashid": "5d1495cd387a452298d73bd9ed932396",
+        "itemgroup": "smg",
+        "itemname": "necro jr.",
+        "itemtype": "mp5-sd",
+        "pricelatest": 0.07,
+        "pricelatestsell": 0.05,
+        "pricemix": 0.05,
+        "pricemedian": 0.09,
+        "pricesafe": 0.06,
+        "priceavg": 0.09,
+        "pricemin": 0.04,
+        "pricemax": 0.09,
+        "pricesafe24h": 0.05,
+        "pricesafe7d": 0.05,
+        "pricesafe30d": 0.05,
+        "pricesafe90d": 0.06,
+        "priceupdatedat": {
+            "date": "2024-01-29 15:31:15.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.04,
+        "pricereal24h": 0.04,
+        "pricereal7d": 0.04,
+        "pricereal30d": 0.03,
+        "pricereal90d": null,
+        "winloss": 20,
+        "trendpoint": 65,
+        "offervolume": 11548,
+        "hourstosold": 1,
+        "sold24h": 1141,
+        "sold7d": 6986,
+        "sold30d": 29574,
+        "sold90d": 119577,
+        "buyorderprice": 0.06,
+        "buyordermedian": 0.05,
+        "buyorderavg": 0.04,
+        "buyordervolume": 162074,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09e_kL-FkvTmPLXem2JS58tOh-zF_Jn4t1i1uRQ5fW_wJ4-UegdsZA2D81TvxOvmhsW0vJrBnyRi7iJx5y7Unhflgh5JO7RxxavJt23X-SA",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_SMG",
+                "localized_category_name": "Type",
+                "localized_tag_name": "SMG"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_mp5sd",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "MP5-SD"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_30",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Dreams & Nightmares Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted with fairytale inspired creatures and a chicken on the silencer.\n\n<i>Playtime is over!</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Dreams & Nightmares Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D10233449581241796543",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1642723206021",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34026280826D10233449581241796543",
+        "inspectlinkparsed": {
+            "a": "34026280826",
+            "s": "76561198301205885",
+            "d": "0233449581241796543"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "cc0dfb73-d3e3-4370-a05f-cbded7c3e469",
+        "markethashname": "MAG-7 | Foresight (Field-Tested)",
+        "marketname": "MAG-7 | Foresight (Field-Tested)",
+        "slug": "mag-7-foresight-field-tested",
+        "count": 1,
+        "assetid": "34268409398",
+        "classid": "4722946534",
+        "groupid": "a155c7e910cb91fc911ddc426f48bccd",
+        "instanceid": "188530139",
+        "nameid": 176288477,
+        "hashid": "1d0d0e733269193c6c187ca00642a808",
+        "itemgroup": "shotgun",
+        "itemname": "foresight",
+        "itemtype": "mag-7",
+        "pricelatest": 0.06,
+        "pricelatestsell": 0.05,
+        "pricemix": 0.05,
+        "pricemedian": 0.08,
+        "pricesafe": 0.05,
+        "priceavg": 0.09,
+        "pricemin": 0.04,
+        "pricemax": 0.13,
+        "pricesafe24h": 0.05,
+        "pricesafe7d": 0.05,
+        "pricesafe30d": 0.05,
+        "pricesafe90d": 0.06,
+        "priceupdatedat": {
+            "date": "2024-01-29 14:20:12.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.03,
+        "pricereal24h": 0.03,
+        "pricereal7d": 0.04,
+        "pricereal30d": 0.03,
+        "pricereal90d": null,
+        "winloss": 40,
+        "trendpoint": 45,
+        "offervolume": 18791,
+        "hourstosold": 1,
+        "sold24h": 1590,
+        "sold7d": 9384,
+        "sold30d": 42435,
+        "sold90d": 185593,
+        "buyorderprice": 0.05,
+        "buyordermedian": 0.04,
+        "buyorderavg": 0.04,
+        "buyordervolume": 180896,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "mil-spec grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV08ykkYSClOP7IYTck29Y_chOhujT8om73wO3-BI-MTqicYLBdVdvMFqC8we-xuq8hZK8u5XLn3I1uiN07HyIyQv33087B9vVEg",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Shotgun",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Shotgun"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_mag7",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "MAG-7"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_30",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Dreams & Nightmares Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Mil-Spec Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. This custom paint job features an octopus, asked to predict the outcome of a match, reaching for the \"win\" tablet.\n\n<i>I've got a good feeling about this...</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Dreams & Nightmares Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9818554097545876057",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1642723208723",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34268409398D9818554097545876057",
+        "inspectlinkparsed": {
+            "a": "34268409398",
+            "s": "76561198301205885",
+            "d": "818554097545876057"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "8f2f8cfb-ed9b-4d11-ac36-12ad92373b8d",
+        "markethashname": "FAMAS | Colony (Minimal Wear)",
+        "marketname": "FAMAS | Colony (Minimal Wear)",
+        "slug": "famas-colony-minimal-wear",
+        "count": 1,
+        "assetid": "34604546829",
+        "classid": "310777698",
+        "groupid": "96729250c20da5085cec7f319212609a",
+        "instanceid": "302028390",
+        "nameid": 2384351,
+        "hashid": "73e5cade6e3f3641b8867ddd30c80eb8",
+        "itemgroup": "rifle",
+        "itemname": "colony",
+        "itemtype": "famas",
+        "pricelatest": 0.03,
+        "pricelatestsell": 0.03,
+        "pricemix": 0.03,
+        "pricemedian": 0.05,
+        "pricesafe": 0.01,
+        "priceavg": 0.04,
+        "pricemin": 0.03,
+        "pricemax": 0.04,
+        "pricesafe24h": 0.03,
+        "pricesafe7d": 0.03,
+        "pricesafe30d": 0.03,
+        "pricesafe90d": 0.03,
+        "priceupdatedat": {
+            "date": "2024-01-29 13:54:23.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.01,
+        "pricereal24h": 0.01,
+        "pricereal7d": 0.01,
+        "pricereal30d": 0.01,
+        "pricereal90d": null,
+        "winloss": 66.67,
+        "trendpoint": 15,
+        "offervolume": 19112,
+        "hourstosold": 1,
+        "sold24h": 1355,
+        "sold7d": 6504,
+        "sold30d": 28191,
+        "sold90d": 108556,
+        "buyorderprice": null,
+        "buyordermedian": null,
+        "buyorderavg": null,
+        "buyordervolume": null,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "b0c3d9",
+        "quality": "normal",
+        "rarity": "consumer grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwPz3Yi1D79mJmYGZnvnxDLfYkWNF18lwmO7Eu4722FXl-kNkYzr6doXHdwZtYFuErgPrxb-51JXqusvAz3Fiu3Z3tnvD30vgxIiUCnE",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Rifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_famas",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "FAMAS"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_italy",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Italy Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Consumer Grade",
+                "color": "b0c3d9"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory1",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Minimal Wear"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Minimal Wear"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has individual parts spray-painted khaki and grey."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Italy Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5227806208469285392",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1385596807776",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34604546829D5227806208469285392",
+        "inspectlinkparsed": {
+            "a": "34604546829",
+            "s": "76561198301205885",
+            "d": "227806208469285392"
+        },
+        "markettradablerestriction": 7,
+        "wear": "mw",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "be64715a-0b08-4c6c-bb4c-b31841fd0a82",
+        "markethashname": "Sticker | PGL | Antwerp 2022",
+        "marketname": "Sticker | PGL | Antwerp 2022",
+        "slug": "sticker-pgl-antwerp-2022",
+        "count": 1,
+        "assetid": "34386121508",
+        "classid": "4839650831",
+        "groupid": "159869e20e5f98fae198bd047abaf817",
+        "instanceid": "188530139",
+        "nameid": 176312040,
+        "hashid": "92dcf4b88872321c7951a99210cf01f8",
+        "itemgroup": "sticker",
+        "itemname": "pgl",
+        "itemtype": "antwerp 2022",
+        "pricelatest": 0.03,
+        "pricelatestsell": 0.03,
+        "pricemix": 0.03,
+        "pricemedian": 0.05,
+        "pricesafe": 0.01,
+        "priceavg": 0.04,
+        "pricemin": 0.03,
+        "pricemax": 0.03,
+        "pricesafe24h": 0.03,
+        "pricesafe7d": 0.03,
+        "pricesafe30d": 0.03,
+        "pricesafe90d": 0.03,
+        "priceupdatedat": {
+            "date": "2024-01-29 14:50:01.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.01,
+        "pricereal24h": 0.01,
+        "pricereal7d": 0.01,
+        "pricereal30d": 0.01,
+        "pricereal90d": null,
+        "winloss": 66.67,
+        "trendpoint": 15,
+        "offervolume": 83743,
+        "hourstosold": 1,
+        "sold24h": 1896,
+        "sold7d": 8099,
+        "sold30d": 29548,
+        "sold90d": 127418,
+        "buyorderprice": null,
+        "buyordermedian": null,
+        "buyorderavg": null,
+        "buyordervolume": null,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "4b69ff",
+        "quality": "normal",
+        "rarity": "high grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJkIghouru3LAIugqbMc2tBvYuww9XTlvSkY7_XwTsJv5Nz3r2ZrN-s0QXtrRJpMT2gIZjVLFGyf3JYBA",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Tool_Sticker",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Sticker"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Rare",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "High Grade",
+                "color": "4b69ff"
+            },
+            {
+                "category": "StickerCategory",
+                "internal_name": "Tournament",
+                "localized_category_name": "Sticker Type",
+                "localized_tag_name": "Tournament"
+            },
+            {
+                "category": "Tournament",
+                "internal_name": "Tournament19",
+                "localized_category_name": "Tournament",
+                "localized_tag_name": "2022 PGL Antwerp"
+            },
+            {
+                "category": "StickerCapsule",
+                "internal_name": "crate_sticker_pack_antwerp2022_legends_collection",
+                "localized_category_name": "Sticker Collection",
+                "localized_tag_name": "Antwerp 2022 Legends Stickers"
+            },
+            {
+                "category": "StickerCapsule",
+                "internal_name": "crate_sticker_pack_antwerp2022_challengers_collection",
+                "localized_category_name": "Sticker Collection",
+                "localized_tag_name": "Antwerp 2022 Challengers Stickers"
+            },
+            {
+                "category": "StickerCapsule",
+                "internal_name": "crate_sticker_pack_antwerp2022_contenders_collection",
+                "localized_category_name": "Sticker Collection",
+                "localized_tag_name": "Antwerp 2022 Contenders Stickers"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "This item commemorates the 2022 PGL Antwerp CS:GO Championship.",
+                "color": "ffd700"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "",
+                "color": "00a000"
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2323894138625056451",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1651618807375",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34386121508D2323894138625056451",
+        "inspectlinkparsed": {
+            "a": "34386121508",
+            "s": "76561198301205885",
+            "d": "323894138625056451"
+        },
+        "markettradablerestriction": 7,
+        "wear": null,
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "0844988b-64e6-4fb6-b131-f2a013433874",
+        "markethashname": "MAG-7 | Rust Coat (Field-Tested)",
+        "marketname": "MAG-7 | Rust Coat (Field-Tested)",
+        "slug": "mag-7-rust-coat-field-tested",
+        "count": 1,
+        "assetid": "34268390739",
+        "classid": "3035570967",
+        "groupid": "20ab03b0a3d51c8a93ddb84004b459b1",
+        "instanceid": "302028390",
+        "nameid": 176012389,
+        "hashid": "67b59527b37613431d58403ce92f1723",
+        "itemgroup": "shotgun",
+        "itemname": "rust coat",
+        "itemtype": "mag-7",
+        "pricelatest": 0.03,
+        "pricelatestsell": 0.03,
+        "pricemix": 0.03,
+        "pricemedian": 0.05,
+        "pricesafe": 0.01,
+        "priceavg": 0.04,
+        "pricemin": 0.03,
+        "pricemax": 0.38,
+        "pricesafe24h": 0.03,
+        "pricesafe7d": 0.03,
+        "pricesafe30d": 0.03,
+        "pricesafe90d": 0.03,
+        "priceupdatedat": {
+            "date": "2024-01-29 17:21:18.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.01,
+        "pricereal24h": 0.01,
+        "pricereal7d": 0.01,
+        "pricereal30d": 0.01,
+        "pricereal90d": null,
+        "winloss": 66.67,
+        "trendpoint": 15,
+        "offervolume": 33299,
+        "hourstosold": 1,
+        "sold24h": 2307,
+        "sold7d": 8907,
+        "sold30d": 43444,
+        "sold90d": 165391,
+        "buyorderprice": null,
+        "buyordermedian": null,
+        "buyorderavg": null,
+        "buyordervolume": null,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "b0c3d9",
+        "quality": "normal",
+        "rarity": "consumer grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhhwszbZThH4OO_moaOhfn7DLbUkmJE5fp9i_vG8ML031bk_kA9a2v1INDGcFJsZ1_YrgTslbq91Je-6JyfyXBis3Ik4nvegVXp1j0M-bEz",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Shotgun",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Shotgun"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_mag7",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "MAG-7"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_inferno_2",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The 2018 Inferno Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Consumer Grade",
+                "color": "b0c3d9"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It is still perfectly operational although the exterior surfaces have rusted.\n\n<i>Some people don't need to hide how dirty their deeds are</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The 2018 Inferno Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5641321495084506685",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1538607605553",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34268390739D5641321495084506685",
+        "inspectlinkparsed": {
+            "a": "34268390739",
+            "s": "76561198301205885",
+            "d": "641321495084506685"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "id": "0cedb705-2818-4881-92d5-89cc89dab199",
+        "markethashname": "AUG | Sweeper (Field-Tested)",
+        "marketname": "AUG | Sweeper (Field-Tested)",
+        "slug": "aug-sweeper-field-tested",
+        "count": 1,
+        "assetid": "34026226573",
+        "classid": "3035572174",
+        "groupid": "bdef02bd6714a3e17443d1105f37a660",
+        "instanceid": "302028390",
+        "nameid": 176012369,
+        "hashid": "d9b01ee7d2ad0ab6ada82ef6a4d425bf",
+        "itemgroup": "rifle",
+        "itemname": "sweeper",
+        "itemtype": "aug",
+        "pricelatest": 0.03,
+        "pricelatestsell": 0.03,
+        "pricemix": 0.03,
+        "pricemedian": 0.05,
+        "pricesafe": 0.01,
+        "priceavg": 0.04,
+        "pricemin": 0.03,
+        "pricemax": 0.03,
+        "pricesafe24h": 0.03,
+        "pricesafe7d": 0.03,
+        "pricesafe30d": 0.03,
+        "pricesafe90d": 0.03,
+        "priceupdatedat": {
+            "date": "2024-01-29 16:52:19.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "pricereal": 0.01,
+        "pricereal24h": 0.01,
+        "pricereal7d": 0.01,
+        "pricereal30d": 0.01,
+        "pricereal90d": null,
+        "winloss": 66.67,
+        "trendpoint": 15,
+        "offervolume": 56604,
+        "hourstosold": 1,
+        "sold24h": 5592,
+        "sold7d": 19744,
+        "sold30d": 77748,
+        "sold90d": 285165,
+        "buyorderprice": null,
+        "buyordermedian": null,
+        "buyorderavg": null,
+        "buyordervolume": null,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "b0c3d9",
+        "quality": "normal",
+        "rarity": "consumer grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV9_92wkZSSlfv1MLDum25V4dB8teXA54vwxg2y8hJkNWvxJYGReg4_N1mB-VC8xr3mhcftvM-dn3Bq6Cggty3VnRGpwUYblAKYImM",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Rifle",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Rifle"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_aug",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "AUG"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_inferno_2",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The 2018 Inferno Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Consumer Grade",
+                "color": "b0c3d9"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been spray painted with a brown, grey, and red mesh pattern.\n\n<i>Clear a path</i>"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The 2018 Inferno Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5190442854889747500",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-29 13:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1538607604374",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198301205885A34026226573D5190442854889747500",
+        "inspectlinkparsed": {
+            "a": "34026226573",
+            "s": "76561198301205885",
+            "d": "190442854889747500"
+        },
+        "markettradablerestriction": 7,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    }
+]
