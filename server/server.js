@@ -2,7 +2,7 @@ const express = require('express');
 const fetch = require('node-fetch');
 const mongoose = require('mongoose');
 const InventoryPrice = require('./models/InventoryPrice');
-const { use } = require('./inventories');
+// const { use } = require('./inventories');
 const app = express();
 const port = 3000;  // You can choose any available port
 

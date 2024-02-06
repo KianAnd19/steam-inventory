@@ -10,6 +10,7 @@ import Leaderboard from './components/Leaderboard';
 function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [inventoryItems, setInventoryItems] = useState([]);
+  const [leaderboardItems, setLeaderboardItems] = useState([]);
   const [inventoryValue, setInventoryValue] = useState(0);
 
   const items = [{ image:'https://avatars.akamai.steamstatic.com/6384b8297577d2e1ffc8a558e4e808292dca0d88_full.jpg', name: 'Grandpasaurus', value:'56.85'}, 
@@ -18,6 +19,24 @@ function App() {
   
   
   const [categoryTotals, setCategoryTotals] = useState({"Weapon": 20, "Sticker": 19, "Container": 3, "Graffiti": 5, "Music Kit": 2});
+
+  const fetchLeaderboard = async () => {
+    const url = 'http://localhost:3000/inventory/leaderboard';
+    try {
+      setIsLoading(true);
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      const data = await response.json();
+      setLeaderboardItems(data);
+      console.log(data);
+      setIsLoading(false);
+    } catch (error) {
+      console.error("Error fetching data: ", error);
+      setIsLoading(false);
+    }
+  };
 
 
   const fetchInventory = async (steamId) => {
@@ -100,6 +119,7 @@ function App() {
       const inventoryData = await fetchInventory(steamId);
       console.log(inventoryData);
     }
+    fetchLeaderboard();
     setIsLoading(false);
   };
 
@@ -140,7 +160,7 @@ function App() {
           </div>
           <div className='row-span-1 col-span-1 bg-gray-800 rounded-3xl p-2'>
             <h1 className='text-gray-100 text-2xl font-bold text-center'>Leaderboard</h1>
-            <Leaderboard items={items} />
+            <Leaderboard items={leaderboardItems} />
           </div>
           <div className='row-span-2 col-span-2 bg-gray-800 rounded-3xl p-2 items-center'>
             <div className='flex'>
