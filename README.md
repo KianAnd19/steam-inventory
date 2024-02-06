@@ -14,7 +14,7 @@ This project is a Steam Inventory Dashboard that allows users to view the value 
 - **Frontend**: React, Vite, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Deployment**: Frontend on GitHub Pages, Backend on [Heroku/AWS/DigitalOcean/etc.]
+- **Deployment**: Frontend on GitHub Pages, Backend on Heroku.
 
 ## Setup and Installation
 
@@ -28,5 +28,5 @@ This project is a Steam Inventory Dashboard that allows users to view the value 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/KianAnd19/your-repo-name.git
    cd your-repo-name
