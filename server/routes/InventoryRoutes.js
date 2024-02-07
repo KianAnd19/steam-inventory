@@ -4,10 +4,11 @@ const fetch = require('node-fetch');
 const InventoryPrice = require('../models/InventoryPrice');
 
 router.post('/add', async (req, res) => {
-    const { steamId, inventoryValue, profileURL } = req.body;
+    const { steamId, steamName, inventoryValue, profileURL } = req.body;
     try {
         const newInventoryPrice = new InventoryPrice({
             steamId,
+            steamName,
             inventoryValue,
             profileURL
         });
@@ -28,6 +29,7 @@ router.get('/leaderboard', async (req, res) => {
             {
                 $group: {
                     _id: "$steamId", // Group by steamId
+                    steamName: { $first: "$steamName" }, // Take the first steamName in the sorted list for each group
                     inventoryValue: { $first: "$inventoryValue" }, // Take the first inventoryValue in the sorted list for each group
                     profileURL: { $first: "$profileURL" }, // Same for profileURL
                     date: { $first: "$date" } // And date, ensuring we get the most recent document for each steamId

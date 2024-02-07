@@ -5,7 +5,7 @@ const InventoryPriceSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    name: {
+    steamName: {
         type: String,
         required: true
     },
