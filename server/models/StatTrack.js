@@ -1,15 +1,23 @@
 const mongoose = require('mongoose');
 
-const InventoryPriceSchema = new mongoose.Schema({
+const StatTrackSchema = new mongoose.Schema({
+    itemId: {
+        type: String,
+        required: true
+    },
     steamId: {
         type: String,
         required: true
     },
-    inventoryValue: {
+    itemKills: {
         type: Number,
         required: true
     },
     profileURL: {
+        type: String,
+        required: true
+    },
+    itemURL: {
         type: String,
         required: true
     },
@@ -19,4 +27,4 @@ const InventoryPriceSchema = new mongoose.Schema({
     }
 });
 
-module.exports = mongoose.model('InventoryPrice', InventoryPriceSchema);
+module.exports = mongoose.model('StatTrack', StatTrackSchema);
