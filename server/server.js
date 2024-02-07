@@ -19,9 +19,11 @@ mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopol
 
 const inventoryRoutes = require('./routes/InventoryRoutes');
 const statTrackRoutes = require('./routes/StatTrackRoutes');
+const profileRoutes = require('./routes/Profile');
 
 app.use('/inventory', inventoryRoutes);
 app.use('/stattrack', statTrackRoutes);
+app.use('/profile', profileRoutes);
 
 // Proxy endpoint
 app.listen(port, () => {

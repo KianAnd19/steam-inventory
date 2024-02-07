@@ -14,11 +14,7 @@ function App() {
   const [leaderboardItems, setLeaderboardItems] = useState([]);
   const [statTrackItems, setStatTrackItems] = useState([]);
   const [inventoryValue, setInventoryValue] = useState(0);
-
-  const items = [{ image: 'https://avatars.akamai.steamstatic.com/6384b8297577d2e1ffc8a558e4e808292dca0d88_full.jpg', name: 'Grandpasaurus', value: '56.85' },
-  { image: 'https://avatars.akamai.steamstatic.com/b1fd6d2a128e673b21e453c4baa528c863650394_full.jpg', name: 'Noncelores Cumbridge', value: '36.46' },
-  { name: 'Item 3' }, { name: 'Item 4' }, { name: 'Item 5' }, { name: 'Item 6' }, { name: 'Item 7' }, { name: 'Item 8' }, { name: 'Item 9' }];
-
+  const [profileData, setProfileData] = useState({"profileName": "Kian", "profilePictureUrl": "./public/unknown_user.png"});
 
   const [categoryTotals, setCategoryTotals] = useState({ "Weapon": 20, "Sticker": 19, "Container": 3, "Graffiti": 5, "Music Kit": 2 });
 
@@ -33,10 +29,24 @@ function App() {
       const data = await response.json();
       setLeaderboardItems(data);
       console.log(data);
-      setIsLoading(false);
     } catch (error) {
       console.error("Error fetching data: ", error);
-      setIsLoading(false);
+    }
+  };
+
+  const fetchProfile = async (steamId) => {
+    const url = `http://localhost:3000/profile?steamId=${steamId}`;
+    try {
+      setIsLoading(true);
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      const data = await response.json();
+      setProfileData(data);
+      console.log(data);
+    } catch (error) {
+      console.error("Error fetching data: ", error);
     }
   };
 
@@ -51,10 +61,8 @@ function App() {
       const data = await response.json();
       setStatTrackItems(data);
       console.log(data);
-      setIsLoading(false);
     } catch (error) {
       console.error("Error fetching data: ", error);
-      setIsLoading(false);
     }
   };
 
@@ -79,10 +87,8 @@ function App() {
       const categoryTotals = categorizeAndSummarize(data);
       console.log(categoryTotals);
 
-      setIsLoading(false);
     } catch (error) {
       console.error("Error fetching data: ", error);
-      setIsLoading(false);
     }
   };
 
@@ -106,7 +112,6 @@ function App() {
       setIsLoading(false);
     } catch (error) {
       console.error("Error fetching data: ", error);
-      setIsLoading(false);
     }
   };
 
@@ -141,6 +146,7 @@ function App() {
     }
     fetchLeaderboard();
     fetchStatTrack();
+    fetchProfile(steamId);
     setIsLoading(false);
   };
 
@@ -174,7 +180,7 @@ function App() {
       <div className='grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-6 gap-4 mt-6 w-full grid-flow-row-dense'>
         <div className='flex row-span-1 col-span-1 bg-gray-800 rounded-3xl p-2 w-full h-full justify-center'>
           <div className='flex flex-col p-2 justify-center'>
-            <img src="https://avatars.akamai.steamstatic.com/6384b8297577d2e1ffc8a558e4e808292dca0d88_full.jpg" alt="User Profile Picture" className="rounded-2xl bg-gray-800 p-1 mb-2 transition duration-200 ease-in-out w-full ring-2 ring-[#219ebc] hover:ring-4 hover:bg-gray-700" />
+            <img src={profileData.profilePictureUrl} alt="User Profile Picture" className="rounded-2xl bg-gray-800 p-1 mb-2 transition duration-200 ease-in-out w-full ring-2 ring-[#219ebc] hover:ring-4 hover:bg-gray-700" />
             <h1 className='text-gray-100 text-xl font-bold text-center'>Inventory Value:</h1>
             <h1 className='text-gray-100 text-2xl font-bold text-center'>${inventoryValue}</h1>
           </div>
