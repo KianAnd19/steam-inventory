@@ -5,6 +5,10 @@ const InventoryPriceSchema = new mongoose.Schema({
         type: String,
         required: true
     },
+    name: {
+        type: String,
+        required: true
+    },
     inventoryValue: {
         type: Number,
         required: true

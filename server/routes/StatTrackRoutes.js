@@ -3,11 +3,13 @@ const router = express.Router();
 const StatTrack = require('../models/StatTrack');
 
 router.post('/add', async (req, res) => {
-    const { steamId, itemKills, profileURL, itemId, itemURL } = req.body;
+    const { itemId, itemName, steamId, steamName, itemKills, profileURL, itemURL } = req.body;
     try {
         const newStatTrack = new StatTrack({
             itemId,
+            itemName,
             steamId,
+            steamName,
             itemKills,
             profileURL,
             itemURL

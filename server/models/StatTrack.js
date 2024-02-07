@@ -5,7 +5,15 @@ const StatTrackSchema = new mongoose.Schema({
         type: String,
         required: true
     },
+    itemName: {
+        type: String,
+        required: true
+    },
     steamId: {
+        type: String,
+        required: true
+    },
+    steamName: {
         type: String,
         required: true
     },
