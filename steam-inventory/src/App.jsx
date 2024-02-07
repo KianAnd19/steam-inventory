@@ -9,19 +9,19 @@ import Leaderboard from './components/Leaderboard';
 import LeaderboardST from './components/LeaderboardST';
 
 function App() {
+  const URL = 'http://localhost:3000';
   const [isLoading, setIsLoading] = useState(false);
   const [inventoryItems, setInventoryItems] = useState([]);
   const [leaderboardItems, setLeaderboardItems] = useState([]);
   const [statTrackItems, setStatTrackItems] = useState([]);
   const [inventoryValue, setInventoryValue] = useState(0);
-  const [profileData, setProfileData] = useState({"profileName": "Kian", "profilePictureUrl": "./public/unknown_user.png"});
+  const [profileData, setProfileData] = useState({ "profileName": "Kian", "profilePictureUrl": "./unknown_user.png" });
 
   const [categoryTotals, setCategoryTotals] = useState({ "Weapon": 20, "Sticker": 19, "Container": 3, "Graffiti": 5, "Music Kit": 2 });
 
   const fetchLeaderboard = async () => {
-    const url = 'http://localhost:3000/inventory/leaderboard';
+    const url = `${URL}/inventory/leaderboard`;
     try {
-      setIsLoading(true);
       const response = await fetch(url);
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
@@ -35,9 +35,8 @@ function App() {
   };
 
   const fetchProfile = async (steamId) => {
-    const url = `http://localhost:3000/profile?steamId=${steamId}`;
+    const url = `${URL}/profile?steamId=${steamId}`;
     try {
-      setIsLoading(true);
       const response = await fetch(url);
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
@@ -51,9 +50,8 @@ function App() {
   };
 
   const fetchStatTrack = async () => {
-    const url = 'http://localhost:3000/stattrack/leaderboard';
+    const url = `${URL}/stattrack/leaderboard`;
     try {
-      setIsLoading(true);
       const response = await fetch(url);
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
@@ -69,10 +67,9 @@ function App() {
 
   const fetchInventory = async (steamId) => {
     const apiKey = import.meta.env.VITE_API_KEY;
-    const url = `http://localhost:3000/inventory?steamId=${steamId}`;
+    const url = `${URL}/inventory?steamId=${steamId}`;
 
     try {
-      setIsLoading(true);
       const response = await fetch(url);
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
@@ -94,7 +91,6 @@ function App() {
 
   const fetchInventoryStatic = async (steamId) => {
     try {
-      setIsLoading(true);
       const filename = `${steamId}.json`
       const response = await fetch(filename);  // Fetching from the local file
       if (!response.ok) {
@@ -137,18 +133,49 @@ function App() {
     setInventoryValue(0); // Clear the inventory value
     // Add your search logic here
     setIsLoading(true);
-    if (steamId === 'Kian' || steamId === 'Todd') {
+    if (steamId === 'grandpa') {
+      steamId = 'grandpasaurus';
       const inventoryData = await fetchInventoryStatic(steamId);
       console.log(inventoryData);
-    } else {
+    } else if (steamId === 'Todd') {
+      steamId = '76561198279721485';
+      const inventoryData = await fetchInventoryStatic(steamId);
+      console.log(inventoryData);
+    } 
+    else {
       const inventoryData = await fetchInventory(steamId);
       console.log(inventoryData);
     }
+    fetchProfile(steamId);
     fetchLeaderboard();
     fetchStatTrack();
-    fetchProfile(steamId);
+    postInventory(steamId);
     setIsLoading(false);
   };
+
+  const postInventory = async (steamId) => {
+    const url = `${URL}/inventory/add`;
+    const data = { "steamId": steamId, steamName: profileData.profileName, inventoryValue: inventoryValue, profileURL: profileData.profilePictureUrl };
+    const options = {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(data)
+    };
+
+    try {
+      const response = await fetch(url, options);
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      const responseData = await response.json();
+      console.log(responseData);
+    } catch (error) {
+      console.error("Error fetching data: ", error);
+    }
+  };
+
 
   //Disable scrolling when loading
   useEffect(() => {
