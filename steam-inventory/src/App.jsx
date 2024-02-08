@@ -83,7 +83,7 @@ function App() {
 
       const categoryTotals = categorizeAndSummarize(data);
       console.log(categoryTotals);
-
+      return data;
     } catch (error) {
       console.error("Error fetching data: ", error);
     }
@@ -106,6 +106,7 @@ function App() {
       const categoryTotals = categorizeAndSummarize(data);
       console.log(categoryTotals);
       setIsLoading(false);
+      return data;
     } catch (error) {
       console.error("Error fetching data: ", error);
     }
@@ -132,37 +133,40 @@ function App() {
     setIsLoading(true);
     setInventoryItems([]); // Clear the inventory items
     setInventoryValue(0); // Clear the inventory value
-  
+
     try {
       // Fetch profile information first
       await fetchProfile(steamId);
       console.log('Profile data:', profileData);
-  
-      // Assuming fetchInventory also needs to complete before fetching the leaderboard
-      // Note: Adjust according to your actual dependencies
+
+      let inventoryData;
       if (steamId === 'Kian' || steamId === 'Todd') {
-        await fetchInventoryStatic(steamId);
+        inventoryData = await fetchInventoryStatic(steamId);
       } else {
-        await fetchInventory(steamId);
+        inventoryData = await fetchInventory(steamId);
       }
-  
-      // Post inventory after fetching it
-      // Ensure this operation is necessary before fetching the leaderboard
-      await postInventory(steamId);
-  
+
+      if (inventoryData) {
+        const total = inventoryData.reduce((sum, item) => sum + item.pricelatest, 0).toFixed(2);
+        setInventoryValue(total);
+        setInventoryItems(inventoryData);
+
+        await postInventory(steamId, total);
+      }
+
       // Fetch stat track information if independent from leaderboard
       await fetchStatTrack();
-  
+
       // Fetch leaderboard last
       await fetchLeaderboard();
-  
+
     } catch (error) {
       console.error("Error in handleSearch: ", error);
     } finally {
       setIsLoading(false);
     }
   };
-  
+
 
   const postInventory = async (steamId) => {
     const url = `${URL}/inventory/add`;

@@ -11,7 +11,15 @@ async function fetchProfileData(url) {
 
     const profileName = $('.actual_persona_name').text().trim();
     const images = $('.playerAvatarAutoSizeInner img').toArray();
-    let profilePictureUrl = images.length ? $(images[0]).attr('src') : ''; // Default to the first image
+
+    let profilePictureUrl = '';
+    if (images.length >= 2) {
+        // If there are at least two images, select the second one
+        profilePictureUrl = $(images[1]).attr('src');
+    } else if (images.length === 1) {
+        // If there is only one image, use it as a fallback
+        profilePictureUrl = $(images[0]).attr('src');
+    }
 
     if (profileName && profilePictureUrl) {
         return { profileName, profilePictureUrl };
