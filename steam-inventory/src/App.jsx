@@ -15,7 +15,7 @@ function App() {
   const [leaderboardItems, setLeaderboardItems] = useState([]);
   const [statTrackItems, setStatTrackItems] = useState([]);
   const [inventoryValue, setInventoryValue] = useState(0);
-  const [profileData, setProfileData] = useState({ "profileName": "Kian", "profilePictureUrl": "./unknown_user.png" });
+  const [profileData, setProfileData] = useState({ "profileName": "Unkown User", "profilePictureUrl": "./unknown_user.png" });
 
   const [categoryTotals, setCategoryTotals] = useState({ "Weapon": 20, "Sticker": 19, "Container": 3, "Graffiti": 5, "Music Kit": 2 });
 
@@ -129,29 +129,40 @@ function App() {
   //Handle search
   const handleSearch = async (steamId) => {
     console.log('Searching for:', steamId);
+    setIsLoading(true);
     setInventoryItems([]); // Clear the inventory items
     setInventoryValue(0); // Clear the inventory value
-    // Add your search logic here
-    setIsLoading(true);
-    if (steamId === 'grandpa') {
-      steamId = 'grandpasaurus';
-      const inventoryData = await fetchInventoryStatic(steamId);
-      console.log(inventoryData);
-    } else if (steamId === 'Todd') {
-      steamId = '76561198279721485';
-      const inventoryData = await fetchInventoryStatic(steamId);
-      console.log(inventoryData);
-    } 
-    else {
-      const inventoryData = await fetchInventory(steamId);
-      console.log(inventoryData);
+  
+    try {
+      // Fetch profile information first
+      await fetchProfile(steamId);
+      console.log('Profile data:', profileData);
+  
+      // Assuming fetchInventory also needs to complete before fetching the leaderboard
+      // Note: Adjust according to your actual dependencies
+      if (steamId === 'Kian' || steamId === 'Todd') {
+        await fetchInventoryStatic(steamId);
+      } else {
+        await fetchInventory(steamId);
+      }
+  
+      // Post inventory after fetching it
+      // Ensure this operation is necessary before fetching the leaderboard
+      await postInventory(steamId);
+  
+      // Fetch stat track information if independent from leaderboard
+      await fetchStatTrack();
+  
+      // Fetch leaderboard last
+      await fetchLeaderboard();
+  
+    } catch (error) {
+      console.error("Error in handleSearch: ", error);
+    } finally {
+      setIsLoading(false);
     }
-    fetchProfile(steamId);
-    fetchLeaderboard();
-    fetchStatTrack();
-    postInventory(steamId);
-    setIsLoading(false);
   };
+  
 
   const postInventory = async (steamId) => {
     const url = `${URL}/inventory/add`;

@@ -3,37 +3,40 @@ const router = express.Router();
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 
+async function fetchProfileData(url) {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error('Profile not found');
+    const html = await response.text();
+    const $ = cheerio.load(html);
+
+    const profileName = $('.actual_persona_name').text().trim();
+    const images = $('.playerAvatarAutoSizeInner img').toArray();
+    let profilePictureUrl = images.length ? $(images[0]).attr('src') : ''; // Default to the first image
+
+    if (profileName && profilePictureUrl) {
+        return { profileName, profilePictureUrl };
+    }
+    throw new Error('Profile data incomplete');
+}
+
 router.get('/', async (req, res) => {
     const { steamId } = req.query;
 
     try {
-        // Assuming steamId is a custom URL part or numeric ID
-        const apiUrl = `https://steamcommunity.com/id/${steamId}`; // Adjust URL based on the correct format
-        console.log(apiUrl); // Helps in debugging to make sure URL is correct
-        const response = await fetch(apiUrl);
-        const html = await response.text(); // Get HTML content
-        const $ = cheerio.load(html);
+        let profileData;
+        const customUrl = `https://steamcommunity.com/id/${steamId}`;
+        const numericIdUrl = `https://steamcommunity.com/profiles/${steamId}`;
 
-        // Get the profile name
-        const profileName = $('.actual_persona_name').text().trim();
-
-        // Find all images within the specified container(s) and select the second one if available
-        const images = $('.playerAvatarAutoSizeInner img').toArray(); // Adjust selector if necessary
-        let profilePictureUrl = '';
-        if (images.length >= 2) {
-            // If there are at least two images, select the second one
-            profilePictureUrl = $(images[1]).attr('src');
-        } else if (images.length === 1) {
-            // If there is only one image, use it as a fallback
-            profilePictureUrl = $(images[0]).attr('src');
+        // Attempt to fetch using the custom URL format
+        try {
+            profileData = await fetchProfileData(customUrl);
+        } catch (error) {
+            // If the custom URL fails, try the numeric ID format
+            console.log(`Fetching using custom URL failed, trying numeric ID. Error: ${error.message}`);
+            profileData = await fetchProfileData(numericIdUrl);
         }
 
-        // Check if the profile name and picture URL have been successfully retrieved
-        if (profileName && profilePictureUrl) {
-            res.json({ profileName, profilePictureUrl });
-        } else {
-            res.status(404).send('Profile not found');
-        }
+        res.json(profileData);
     } catch (error) {
         console.error('Error fetching Steam profile:', error);
         res.status(500).send('Error fetching data');
